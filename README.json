@@ -1,0 +1,374 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🚀 PHP - gotenberg/gotenberg-php",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T19:31:38Z",
+            "owner": "gotenberg",
+            "repo": "gotenberg-php",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚀 PHP/Symfony - sensiolabs/gotenberg-bundle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T11:09:08Z",
+            "owner": "sensiolabs",
+            "repo": "GotenbergBundle",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚀 C# - ChangemakerStudios/GotenbergSharpApiClient",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-14T03:54:38Z",
+            "owner": "ChangemakerStudios",
+            "repo": "GotenbergSharpApiClient",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚀 TypeScript - cherfia/chromiumly",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T13:39:01Z",
+            "owner": "cherfia",
+            "repo": "chromiumly",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript/TypeScript - yumauri/gotenberg-js-client",
+          "description": "Gotenberg 6.x ⚠️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-19T16:33:43Z",
+            "owner": "yumauri",
+            "repo": "gotenberg-js-client",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP - thecodingmachine/gotenberg-php-client",
+          "description": "Gotenberg 6.x ⚠️",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-05-29T07:45:51Z",
+            "owner": "thecodingmachine",
+            "repo": "gotenberg-php-client",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go - thecodingmachine/gotenberg-go-client",
+          "description": "Gotenberg 6.x ⚠️",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-04-13T23:30:43Z",
+            "owner": "thecodingmachine",
+            "repo": "gotenberg-go-client",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚀 Python - stumpylog/gotenberg-client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T04:20:07Z",
+            "owner": "stumpylog",
+            "repo": "gotenberg-client",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚀 Ruby - sanzstez/gotenberg-ruby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-12T11:27:27Z",
+            "owner": "sanzstez",
+            "repo": "gotenberg-ruby",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚀 Go - starwalkn/gotenberg-go-client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rich Text Format",
+            "last_commit": "2025-11-18T15:35:11Z",
+            "owner": "starwalkn",
+            "repo": "gotenberg-go-client",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚀 Java - cherfia/jotenberg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-31T15:24:41Z",
+            "owner": "cherfia",
+            "repo": "jotenberg",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚀 Swift - thoven87/gotenberg-kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-19T07:42:40Z",
+            "owner": "thoven87",
+            "repo": "gotenberg-kit",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚀 Kotlin - marrek13/kotenberg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T21:03:06Z",
+            "owner": "marrek13",
+            "repo": "kotenberg",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚀 Go - nativebpm/gotenberg (Stream-first: Built on httpclient for efficient multipart uploads)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-23T03:34:10Z",
+            "owner": "nativebpm",
+            "repo": "gotenberg",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby - jbd0101/ruby-gotenberg-client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-01-08T20:22:08Z",
+            "owner": "jbd0101",
+            "repo": "ruby-gotenberg-client",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Word Document Template to PDF - EC-Nordbund/docx-templates-to-pdf",
+          "description": "Gotenberg 6.x ⚠️",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-05-26T15:26:58Z",
+            "owner": "EC-Nordbund",
+            "repo": "docx-templates-to-pdf",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚀 Java/Spring - ooraini/gotenberg-spring",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-28T11:33:42Z",
+            "owner": "ooraini",
+            "repo": "gotenberg-spring",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚀 PHP/Laravel - igeek/pdfservice",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-22T17:16:19Z",
+            "owner": "coolamit",
+            "repo": "igeek-pdfservice",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deno - EC-Nordbund/gotenberg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-15T02:22:20Z",
+            "owner": "EC-Nordbund",
+            "repo": "gotenberg",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP - spacetab-io/gotenbserg-sdk-php",
+          "description": "Gotenberg 6.x ⚠️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-06-24T13:38:20Z",
+            "owner": "spacetab-io",
+            "repo": "gotenberg-sdk-php",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "paperless-ngx/paperless-ngx",
+          "description": "a document management system that transforms your physical documents into a searchable online archive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T00:35:59Z",
+            "owner": "paperless-ngx",
+            "repo": "paperless-ngx",
+            "stars": 44238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "getlago/lago",
+          "description": "an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T07:42:25Z",
+            "owner": "getlago",
+            "repo": "lago",
+            "stars": 10330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pimcore",
+          "description": "an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T13:39:21Z",
+            "owner": "pimcore",
+            "repo": "pimcore",
+            "stars": 3826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShipSaaS/DocKing",
+          "description": "an open-source microservice to manage document templates & render PDFs for your apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-23T03:52:48Z",
+            "owner": "shipsaas",
+            "repo": "docking",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "papihack/document-templating-service",
+          "description": "a lightweight microservice for processing your documents, powered by a templating engine for injecting variables defined in it and use Gotenberg for PDF rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-21T19:59:22Z",
+            "owner": "PapiHack",
+            "repo": "document-templating-service",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Applications"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:18:31.711Z",
+    "original_repository": "gotenberg/awesome-gotenberg",
+    "original_repository_sha": "24e9ae79dc8303af45aa5b0bbf27c67f80ee4e0a",
+    "enhanced_repository": "enhansome/enhansome-gotenberg",
+    "enhanced_repository_description": null,
+    "title": "Awesome gotenberg with stars"
+  }
+}
