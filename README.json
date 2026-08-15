@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T19:31:38Z",
+            "last_commit": "2026-08-14T16:47:12Z",
             "owner": "gotenberg",
             "repo": "gotenberg-php",
             "stars": 391
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T03:54:38Z",
+            "last_commit": "2026-08-14T22:56:38Z",
             "owner": "ChangemakerStudios",
             "repo": "GotenbergSharpApiClient",
             "stars": 208
@@ -297,10 +297,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T00:35:59Z",
+            "last_commit": "2026-08-15T00:22:14Z",
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44238
+            "stars": 44273
           }
         },
         {
@@ -325,10 +325,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T13:39:21Z",
+            "last_commit": "2026-08-14T12:17:55Z",
             "owner": "pimcore",
             "repo": "pimcore",
-            "stars": 3826
+            "stars": 3828
           }
         },
         {
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:18:31.711Z",
+    "last_updated": "2026-08-15T04:06:52.198Z",
     "original_repository": "gotenberg/awesome-gotenberg",
     "original_repository_sha": "24e9ae79dc8303af45aa5b0bbf27c67f80ee4e0a",
     "enhanced_repository": "enhansome/enhansome-gotenberg",
