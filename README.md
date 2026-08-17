@@ -27,7 +27,7 @@
 * 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php) ⭐ 391 | 🐛 0 | 🌐 PHP | 📅 2026-08-14
 * 🚀 [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle) ⭐ 236 | 🐛 21 | 🌐 PHP | 📅 2026-08-12
 * 🚀 [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient) ⭐ 208 | 🐛 0 | 🌐 C# | 📅 2026-08-14
-* 🚀 [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly) ⭐ 170 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-16
+* 🚀 [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly) ⭐ 171 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-16
 * [JavaScript/TypeScript - yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) ⭐ 116 | 🐛 12 | 🌐 TypeScript | 📅 2023-12-19 - Gotenberg **6.x** ⚠️
 * [PHP - thecodingmachine/gotenberg-php-client](https://github.com/thecodingmachine/gotenberg-php-client) ⚠️ Archived - Gotenberg **6.x** ⚠️
 * [Go - thecodingmachine/gotenberg-go-client](https://github.com/thecodingmachine/gotenberg-go-client) ⚠️ Archived - Gotenberg **6.x** ⚠️
@@ -41,7 +41,7 @@
 * [Ruby - jbd0101/ruby-gotenberg-client](https://github.com/jbd0101/ruby-gotenberg-client) ⭐ 9 | 🐛 0 | 🌐 Ruby | 📅 2023-01-08
 * [Word Document Template to PDF - EC-Nordbund/docx-templates-to-pdf](https://github.com/EC-Nordbund/docx-templates-to-pdf) ⚠️ Archived - Gotenberg **6.x** ⚠️
 * 🚀 [Java/Spring - ooraini/gotenberg-spring](https://github.com/ooraini/gotenberg-spring) ⭐ 6 | 🐛 3 | 🌐 Java | 📅 2026-01-28
-* 🚀 [PHP/Laravel - igeek/pdfservice](https://github.com/coolamit/igeek-pdfservice) ⭐ 4 | 🐛 2 | 🌐 PHP | 📅 2026-04-22
+* 🚀 [PHP/Laravel - igeek/pdfservice](https://github.com/coolamit/igeek-pdfservice) ⭐ 5 | 🐛 2 | 🌐 PHP | 📅 2026-04-22
 * [Deno - EC-Nordbund/gotenberg](https://github.com/EC-Nordbund/gotenberg) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2023-12-15
 * [PHP - spacetab-io/gotenbserg-sdk-php](https://github.com/spacetab-io/gotenberg-sdk-php) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2020-06-24 - Gotenberg **6.x** ⚠️
 * 🚀 [PHP/Laravel - spatie/laravel-pdf](https://spatie.be/docs/laravel-pdf/v2/introduction) - Provides a Gotenberg driver.
@@ -53,9 +53,9 @@
 
 ## Applications
 
-* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 44,300 | 🐛 12 | 🌐 Python | 📅 2026-08-16 - a document management system that transforms your physical documents into a searchable online archive.
-* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,335 | 🐛 25 | 🌐 Go | 📅 2026-08-15 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
-* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,830 | 🐛 394 | 🌐 PHP | 📅 2026-08-14 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
+* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 44,326 | 🐛 14 | 🌐 Python | 📅 2026-08-17 - a document management system that transforms your physical documents into a searchable online archive.
+* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,338 | 🐛 25 | 🌐 Go | 📅 2026-08-15 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
+* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,831 | 🐛 391 | 🌐 PHP | 📅 2026-08-14 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
 * [ShipSaaS/DocKing](https://github.com/shipsaas/docking) ⭐ 270 | 🐛 4 | 🌐 PHP | 📅 2024-05-23 - an open-source microservice to manage document templates & render PDFs for your apps.
 * [papihack/document-templating-service](https://github.com/PapiHack/document-templating-service) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2023-03-21 - a lightweight microservice for processing your documents, powered by a templating engine for injecting variables defined in it and use Gotenberg for PDF rendering.
 * [SCM-Manager](https://scm-manager.org/) - an application to share and manage your Git, Mercurial and Subversion repositories, with a [Gotenberg](https://scm-manager.org/plugins/scm-gotenberg-plugin/) plugin. See also their [blog post](https://scm-manager.org/blog/posts/2021-11-17-scm-manager-2-27-0/).
@@ -79,4 +79,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

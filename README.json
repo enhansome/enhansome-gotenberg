@@ -56,7 +56,7 @@
             "last_commit": "2026-08-16T00:10:33Z",
             "owner": "cherfia",
             "repo": "chromiumly",
-            "stars": 170
+            "stars": 171
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-04-22T17:16:19Z",
             "owner": "coolamit",
             "repo": "igeek-pdfservice",
-            "stars": 4
+            "stars": 5
           }
         },
         {
@@ -297,10 +297,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T00:23:48Z",
+            "last_commit": "2026-08-17T03:15:55Z",
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44300
+            "stars": 44326
           }
         },
         {
@@ -314,7 +314,7 @@
             "last_commit": "2026-08-15T13:51:32Z",
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10335
+            "stars": 10338
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2026-08-14T12:17:55Z",
             "owner": "pimcore",
             "repo": "pimcore",
-            "stars": 3830
+            "stars": 3831
           }
         },
         {
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:18:45.842Z",
+    "last_updated": "2026-08-17T04:23:09.453Z",
     "original_repository": "gotenberg/awesome-gotenberg",
     "original_repository_sha": "24e9ae79dc8303af45aa5b0bbf27c67f80ee4e0a",
     "enhanced_repository": "enhansome/enhansome-gotenberg",
