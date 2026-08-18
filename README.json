@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T16:47:12Z",
             "owner": "gotenberg",
             "repo": "gotenberg-php",
-            "stars": 391
+            "stars": 392
           }
         },
         {
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T00:10:33Z",
+            "last_commit": "2026-08-17T11:35:38Z",
             "owner": "cherfia",
             "repo": "chromiumly",
             "stars": 171
@@ -297,10 +297,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T03:15:55Z",
+            "last_commit": "2026-08-18T01:43:39Z",
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44326
+            "stars": 44354
           }
         },
         {
@@ -314,7 +314,7 @@
             "last_commit": "2026-08-15T13:51:32Z",
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10338
+            "stars": 10347
           }
         },
         {
@@ -325,10 +325,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T12:17:55Z",
+            "last_commit": "2026-08-17T11:12:55Z",
             "owner": "pimcore",
             "repo": "pimcore",
-            "stars": 3831
+            "stars": 3833
           }
         },
         {
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:23:09.453Z",
+    "last_updated": "2026-08-18T04:18:40.454Z",
     "original_repository": "gotenberg/awesome-gotenberg",
     "original_repository_sha": "24e9ae79dc8303af45aa5b0bbf27c67f80ee4e0a",
     "enhanced_repository": "enhansome/enhansome-gotenberg",
