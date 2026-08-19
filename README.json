@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T22:56:38Z",
+            "last_commit": "2026-08-19T00:00:03Z",
             "owner": "ChangemakerStudios",
             "repo": "GotenbergSharpApiClient",
             "stars": 208
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T11:35:38Z",
+            "last_commit": "2026-08-19T00:30:55Z",
             "owner": "cherfia",
             "repo": "chromiumly",
             "stars": 171
@@ -297,10 +297,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-18T01:43:39Z",
+            "last_commit": "2026-08-19T03:03:45Z",
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44354
+            "stars": 44390
           }
         },
         {
@@ -311,10 +311,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T13:51:32Z",
+            "last_commit": "2026-08-18T21:22:59Z",
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10347
+            "stars": 10357
           }
         },
         {
@@ -325,7 +325,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T11:12:55Z",
+            "last_commit": "2026-08-18T15:44:43Z",
             "owner": "pimcore",
             "repo": "pimcore",
             "stars": 3833
@@ -342,7 +342,7 @@
             "last_commit": "2024-05-23T03:52:48Z",
             "owner": "shipsaas",
             "repo": "docking",
-            "stars": 270
+            "stars": 269
           }
         },
         {
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:18:40.454Z",
+    "last_updated": "2026-08-19T04:19:34.117Z",
     "original_repository": "gotenberg/awesome-gotenberg",
     "original_repository_sha": "24e9ae79dc8303af45aa5b0bbf27c67f80ee4e0a",
     "enhanced_repository": "enhansome/enhansome-gotenberg",
