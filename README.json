@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 431808004,
             "language": "PHP",
             "last_commit": "2026-08-14T16:47:12Z",
             "owner": "gotenberg",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 728285078,
             "language": "PHP",
             "last_commit": "2026-08-12T11:09:08Z",
             "owner": "sensiolabs",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183506022,
             "language": "C#",
             "last_commit": "2026-08-19T00:00:03Z",
             "owner": "ChangemakerStudios",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 472728976,
             "language": "TypeScript",
             "last_commit": "2026-08-19T00:30:55Z",
             "owner": "cherfia",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215290669,
             "language": "TypeScript",
             "last_commit": "2023-12-19T16:33:43Z",
             "owner": "yumauri",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 129900335,
             "language": "PHP",
             "last_commit": "2023-05-29T07:45:51Z",
             "owner": "thecodingmachine",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 175825270,
             "language": "Go",
             "last_commit": "2024-04-13T23:30:43Z",
             "owner": "thecodingmachine",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 703202359,
             "language": "Python",
             "last_commit": "2026-08-07T04:20:07Z",
             "owner": "stumpylog",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 535571664,
             "language": "Ruby",
             "last_commit": "2026-07-12T11:27:27Z",
             "owner": "sanzstez",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 776458727,
             "language": "Rich Text Format",
             "last_commit": "2025-11-18T15:35:11Z",
             "owner": "starwalkn",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 552349700,
             "language": "Java",
             "last_commit": "2026-03-31T15:24:41Z",
             "owner": "cherfia",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 971089038,
             "language": "Swift",
             "last_commit": "2026-06-19T07:42:40Z",
             "owner": "thoven87",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 725321953,
             "language": "Kotlin",
             "last_commit": "2026-08-16T02:04:21Z",
             "owner": "marrek13",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1063389290,
             "language": "Go",
             "last_commit": "2026-06-23T03:34:10Z",
             "owner": "nativebpm",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 528994501,
             "language": "Ruby",
             "last_commit": "2023-01-08T20:22:08Z",
             "owner": "jbd0101",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 318849669,
             "language": "JavaScript",
             "last_commit": "2021-05-26T15:26:58Z",
             "owner": "EC-Nordbund",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1139000670,
             "language": "Java",
             "last_commit": "2026-01-28T11:33:42Z",
             "owner": "ooraini",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1129615135,
             "language": "PHP",
             "last_commit": "2026-04-22T17:16:19Z",
             "owner": "coolamit",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452744058,
             "language": "TypeScript",
             "last_commit": "2023-12-15T02:22:20Z",
             "owner": "EC-Nordbund",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274667742,
             "language": "PHP",
             "last_commit": "2020-06-24T13:38:20Z",
             "owner": "spacetab-io",
@@ -287,7 +307,7 @@
       "title": "Clients"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -296,11 +316,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 458648791,
             "language": "Python",
             "last_commit": "2026-08-19T03:03:45Z",
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44390
+            "stars": 44401
           }
         },
         {
@@ -310,11 +331,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 464415161,
             "language": "Go",
             "last_commit": "2026-08-18T21:22:59Z",
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10357
+            "stars": 10369
           }
         },
         {
@@ -324,8 +346,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2686502,
             "language": "PHP",
-            "last_commit": "2026-08-18T15:44:43Z",
+            "last_commit": "2026-08-19T11:02:57Z",
             "owner": "pimcore",
             "repo": "pimcore",
             "stars": 3833
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629451252,
             "language": "PHP",
             "last_commit": "2024-05-23T03:52:48Z",
             "owner": "shipsaas",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473128667,
             "language": "Python",
             "last_commit": "2023-03-21T19:59:22Z",
             "owner": "PapiHack",
@@ -364,8 +389,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:19:34.117Z",
+    "last_updated": "2026-08-19T12:32:19.156Z",
     "original_repository": "gotenberg/awesome-gotenberg",
+    "original_repository_id": 398847871,
     "original_repository_sha": "24e9ae79dc8303af45aa5b0bbf27c67f80ee4e0a",
     "enhanced_repository": "enhansome/enhansome-gotenberg",
     "enhanced_repository_description": null,
