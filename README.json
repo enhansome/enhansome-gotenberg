@@ -318,10 +318,10 @@
             "archived": false,
             "id": 458648791,
             "language": "Python",
-            "last_commit": "2026-08-19T03:03:45Z",
+            "last_commit": "2026-08-20T01:44:18Z",
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44401
+            "stars": 44420
           }
         },
         {
@@ -348,10 +348,10 @@
             "archived": false,
             "id": 2686502,
             "language": "PHP",
-            "last_commit": "2026-08-19T11:02:57Z",
+            "last_commit": "2026-08-19T15:31:37Z",
             "owner": "pimcore",
             "repo": "pimcore",
-            "stars": 3833
+            "stars": 3834
           }
         },
         {
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:19.156Z",
+    "last_updated": "2026-08-20T04:19:01.371Z",
     "original_repository": "gotenberg/awesome-gotenberg",
     "original_repository_id": 398847871,
     "original_repository_sha": "24e9ae79dc8303af45aa5b0bbf27c67f80ee4e0a",
