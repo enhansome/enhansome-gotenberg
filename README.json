@@ -318,10 +318,10 @@
             "archived": false,
             "id": 458648791,
             "language": "Python",
-            "last_commit": "2026-08-23T02:46:26Z",
+            "last_commit": "2026-08-24T03:02:10Z",
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44509
+            "stars": 44543
           }
         },
         {
@@ -333,10 +333,10 @@
             "archived": false,
             "id": 464415161,
             "language": "Go",
-            "last_commit": "2026-08-21T23:50:11Z",
+            "last_commit": "2026-08-23T15:43:16Z",
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10379
+            "stars": 10380
           }
         },
         {
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:20:06.382Z",
+    "last_updated": "2026-08-24T04:26:10.572Z",
     "original_repository": "gotenberg/awesome-gotenberg",
     "original_repository_id": 398847871,
     "original_repository_sha": "24e9ae79dc8303af45aa5b0bbf27c67f80ee4e0a",
