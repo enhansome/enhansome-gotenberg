@@ -53,9 +53,9 @@
 
 ## Applications
 
-* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 44,543 | 🐛 13 | 🌐 Python | 📅 2026-08-24 - a document management system that transforms your physical documents into a searchable online archive.
-* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,380 | 🐛 26 | 🌐 Go | 📅 2026-08-23 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
-* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,837 | 🐛 373 | 🌐 PHP | 📅 2026-08-23 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
+* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 44,560 | 🐛 11 | 🌐 Python | 📅 2026-08-24 - a document management system that transforms your physical documents into a searchable online archive.
+* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,381 | 🐛 26 | 🌐 Go | 📅 2026-08-24 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
+* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,838 | 🐛 371 | 🌐 PHP | 📅 2026-08-23 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
 * [ShipSaaS/DocKing](https://github.com/shipsaas/docking) ⭐ 269 | 🐛 4 | 🌐 PHP | 📅 2024-05-23 - an open-source microservice to manage document templates & render PDFs for your apps.
 * [papihack/document-templating-service](https://github.com/PapiHack/document-templating-service) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2023-03-21 - a lightweight microservice for processing your documents, powered by a templating engine for injecting variables defined in it and use Gotenberg for PDF rendering.
 * [SCM-Manager](https://scm-manager.org/) - an application to share and manage your Git, Mercurial and Subversion repositories, with a [Gotenberg](https://scm-manager.org/plugins/scm-gotenberg-plugin/) plugin. See also their [blog post](https://scm-manager.org/blog/posts/2021-11-17-scm-manager-2-27-0/).
