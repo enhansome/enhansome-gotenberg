@@ -321,7 +321,7 @@
             "last_commit": "2026-08-25T03:10:09Z",
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44574
+            "stars": 44577
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-25T00:32:50Z",
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10383
+            "stars": 10382
           }
         },
         {
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:20:39.768Z",
+    "last_updated": "2026-08-25T06:25:29.099Z",
     "original_repository": "gotenberg/awesome-gotenberg",
     "original_repository_id": 398847871,
     "original_repository_sha": "24e9ae79dc8303af45aa5b0bbf27c67f80ee4e0a",
