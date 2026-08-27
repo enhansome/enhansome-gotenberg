@@ -318,10 +318,10 @@
             "archived": false,
             "id": 458648791,
             "language": "Python",
-            "last_commit": "2026-08-27T07:28:41Z",
+            "last_commit": "2026-08-27T13:17:27Z",
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44641
+            "stars": 44644
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-26T15:00:39Z",
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10419
+            "stars": 10421
           }
         },
         {
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:40:42.383Z",
+    "last_updated": "2026-08-27T14:36:55.697Z",
     "original_repository_info": {
       "archived": false,
       "id": 398847871,
