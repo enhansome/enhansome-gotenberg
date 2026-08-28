@@ -16,7 +16,8 @@
             "owner": "gotenberg",
             "repo": "gotenberg-php",
             "stars": 393
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "sensiolabs",
             "repo": "GotenbergBundle",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "ChangemakerStudios",
             "repo": "GotenbergSharpApiClient",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 472728976,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T02:16:24Z",
+            "last_commit": "2026-08-28T11:44:35Z",
             "owner": "cherfia",
             "repo": "chromiumly",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "yumauri",
             "repo": "gotenberg-js-client",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "thecodingmachine",
             "repo": "gotenberg-php-client",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "thecodingmachine",
             "repo": "gotenberg-go-client",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "stumpylog",
             "repo": "gotenberg-client",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "sanzstez",
             "repo": "gotenberg-ruby",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "starwalkn",
             "repo": "gotenberg-go-client",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "cherfia",
             "repo": "jotenberg",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "thoven87",
             "repo": "gotenberg-kit",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "marrek13",
             "repo": "kotenberg",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "nativebpm",
             "repo": "gotenberg",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "jbd0101",
             "repo": "ruby-gotenberg-client",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "EC-Nordbund",
             "repo": "docx-templates-to-pdf",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "ooraini",
             "repo": "gotenberg-spring",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "coolamit",
             "repo": "igeek-pdfservice",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "EC-Nordbund",
             "repo": "gotenberg",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "spacetab-io",
             "repo": "gotenberg-sdk-php",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         }
       ],
       "title": "Clients"
@@ -318,11 +338,12 @@
             "archived": false,
             "id": 458648791,
             "language": "Python",
-            "last_commit": "2026-08-27T13:17:27Z",
+            "last_commit": "2026-08-28T15:10:57Z",
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44644
-          }
+            "stars": 44670
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -333,11 +354,12 @@
             "archived": false,
             "id": 464415161,
             "language": "Go",
-            "last_commit": "2026-08-26T15:00:39Z",
+            "last_commit": "2026-08-27T16:18:40Z",
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10421
-          }
+            "stars": 10433
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -348,11 +370,12 @@
             "archived": false,
             "id": 2686502,
             "language": "PHP",
-            "last_commit": "2026-08-26T14:32:37Z",
+            "last_commit": "2026-08-28T14:12:57Z",
             "owner": "pimcore",
             "repo": "pimcore",
-            "stars": 3837
-          }
+            "stars": 3838
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "shipsaas",
             "repo": "docking",
             "stars": 269
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         },
         {
           "node_type": "item",
@@ -382,14 +406,15 @@
             "owner": "PapiHack",
             "repo": "document-templating-service",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
         }
       ],
       "title": "Applications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:36:55.697Z",
+    "last_updated": "2026-08-28T15:38:41.380Z",
     "original_repository_info": {
       "archived": false,
       "id": 398847871,
