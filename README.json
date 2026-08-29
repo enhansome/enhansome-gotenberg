@@ -613,7 +613,7 @@
             "open_issues": 14,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44681,
+            "stars": 44684,
             "topics": [
               "angular",
               "archiving",
@@ -683,7 +683,7 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:12:57Z",
-            "open_issues": 375,
+            "open_issues": 374,
             "owner": "pimcore",
             "repo": "pimcore",
             "stars": 3838,
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:54:03.919Z",
+    "last_updated": "2026-08-29T10:24:18.489Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rainbow: A curated list of awesome things related to Gotenberg.",
