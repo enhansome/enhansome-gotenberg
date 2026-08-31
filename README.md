@@ -24,14 +24,14 @@
 
 ## Clients
 
-* 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php) ⭐ 393 | 🐛 0 | 🌐 PHP | 📅 2026-08-14
-* 🚀 [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle) ⭐ 236 | 🐛 23 | 🌐 PHP | 📅 2026-08-25
+* 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php) ⭐ 394 | 🐛 0 | 🌐 PHP | 📅 2026-08-14
+* 🚀 [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle) ⭐ 237 | 🐛 23 | 🌐 PHP | 📅 2026-08-25
 * 🚀 [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient) ⭐ 208 | 🐛 0 | 🌐 C# | 📅 2026-08-19
-* 🚀 [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly) ⭐ 171 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-29
+* 🚀 [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly) ⭐ 171 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-31
 * [JavaScript/TypeScript - yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) ⭐ 116 | 🐛 12 | 🌐 TypeScript | 📅 2023-12-19 - Gotenberg **6.x** ⚠️
 * [PHP - thecodingmachine/gotenberg-php-client](https://github.com/thecodingmachine/gotenberg-php-client) ⚠️ Archived - Gotenberg **6.x** ⚠️
 * [Go - thecodingmachine/gotenberg-go-client](https://github.com/thecodingmachine/gotenberg-go-client) ⚠️ Archived - Gotenberg **6.x** ⚠️
-* 🚀 [Python - stumpylog/gotenberg-client](https://github.com/stumpylog/gotenberg-client) ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2026-08-07
+* 🚀 [Python - stumpylog/gotenberg-client](https://github.com/stumpylog/gotenberg-client) ⭐ 55 | 🐛 1 | 🌐 Python | 📅 2026-08-07
 * 🚀 [Ruby - sanzstez/gotenberg-ruby](https://github.com/sanzstez/gotenberg-ruby) ⭐ 53 | 🐛 3 | 🌐 Ruby | 📅 2026-07-12
 * 🚀 [Go - starwalkn/gotenberg-go-client](https://github.com/starwalkn/gotenberg-go-client) ⭐ 47 | 🐛 0 | 🌐 Rich Text Format | 📅 2025-11-18
 * 🚀 [Java - cherfia/jotenberg](https://github.com/cherfia/jotenberg) ⭐ 38 | 🐛 0 | 🌐 Java | 📅 2026-03-31
@@ -53,9 +53,9 @@
 
 ## Applications
 
-* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 44,708 | 🐛 15 | 🌐 Python | 📅 2026-08-30 - a document management system that transforms your physical documents into a searchable online archive.
-* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,444 | 🐛 26 | 🌐 Go | 📅 2026-08-28 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
-* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,839 | 🐛 373 | 🌐 PHP | 📅 2026-08-28 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
+* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 44,738 | 🐛 14 | 🌐 Python | 📅 2026-08-31 - a document management system that transforms your physical documents into a searchable online archive.
+* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,445 | 🐛 26 | 🌐 Go | 📅 2026-08-28 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
+* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,838 | 🐛 372 | 🌐 PHP | 📅 2026-08-31 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
 * [ShipSaaS/DocKing](https://github.com/shipsaas/docking) ⭐ 269 | 🐛 4 | 🌐 PHP | 📅 2024-05-23 - an open-source microservice to manage document templates & render PDFs for your apps.
 * [papihack/document-templating-service](https://github.com/PapiHack/document-templating-service) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2023-03-21 - a lightweight microservice for processing your documents, powered by a templating engine for injecting variables defined in it and use Gotenberg for PDF rendering.
 * [SCM-Manager](https://scm-manager.org/) - an application to share and manage your Git, Mercurial and Subversion repositories, with a [Gotenberg](https://scm-manager.org/plugins/scm-gotenberg-plugin/) plugin. See also their [blog post](https://scm-manager.org/blog/posts/2021-11-17-scm-manager-2-27-0/).
@@ -79,4 +79,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
