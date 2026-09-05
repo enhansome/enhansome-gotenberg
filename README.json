@@ -93,7 +93,7 @@
             "open_issues": 0,
             "owner": "ChangemakerStudios",
             "repo": "GotenbergSharpApiClient",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "api-client",
               "async",
@@ -609,11 +609,11 @@
             "id": 458648791,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T03:21:42Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-05T01:48:05Z",
+            "open_issues": 20,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44833,
+            "stars": 44859,
             "topics": [
               "ai",
               "angular",
@@ -643,11 +643,11 @@
             "id": 464415161,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-03T16:03:11Z",
+            "last_commit": "2026-09-04T08:38:35Z",
             "open_issues": 24,
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10492,
+            "stars": 10504,
             "topics": [
               "analytics",
               "billing",
@@ -684,7 +684,7 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T07:12:22Z",
-            "open_issues": 370,
+            "open_issues": 372,
             "owner": "pimcore",
             "repo": "pimcore",
             "stars": 3842,
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:12:44.309Z",
+    "last_updated": "2026-09-05T07:50:47.983Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rainbow: A curated list of awesome things related to Gotenberg.",
