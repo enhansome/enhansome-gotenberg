@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "gotenberg",
             "repo": "gotenberg-php",
-            "stars": 395,
+            "stars": 397,
             "topics": [
               "chromium",
               "conversion",
@@ -129,8 +129,8 @@
             "id": 472728976,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T09:01:35Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-07T21:53:12Z",
+            "open_issues": 4,
             "owner": "cherfia",
             "repo": "chromiumly",
             "stars": 171,
@@ -609,11 +609,11 @@
             "id": 458648791,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T08:27:58Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-08T05:59:45Z",
+            "open_issues": 17,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44907,
+            "stars": 44922,
             "topics": [
               "ai",
               "angular",
@@ -643,11 +643,11 @@
             "id": 464415161,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T08:38:35Z",
+            "last_commit": "2026-09-07T08:39:42Z",
             "open_issues": 24,
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10511,
+            "stars": 10514,
             "topics": [
               "analytics",
               "billing",
@@ -687,7 +687,7 @@
             "open_issues": 376,
             "owner": "pimcore",
             "repo": "pimcore",
-            "stars": 3844,
+            "stars": 3845,
             "topics": [
               "cdp",
               "cms",
@@ -729,7 +729,7 @@
             "open_issues": 4,
             "owner": "shipsaas",
             "repo": "docking",
-            "stars": 269,
+            "stars": 268,
             "topics": [
               "document",
               "document-templates",
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T08:37:08.944Z",
+    "last_updated": "2026-09-08T08:19:02.190Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rainbow: A curated list of awesome things related to Gotenberg.",

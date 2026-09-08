@@ -24,10 +24,10 @@
 
 ## Clients
 
-* 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php) ⭐ 395 | 🐛 0 | 🌐 PHP | 📅 2026-08-14
+* 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php) ⭐ 397 | 🐛 0 | 🌐 PHP | 📅 2026-08-14
 * 🚀 [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle) ⭐ 237 | 🐛 24 | 🌐 PHP | 📅 2026-08-25
 * 🚀 [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient) ⭐ 209 | 🐛 0 | 🌐 C# | 📅 2026-08-19
-* 🚀 [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly) ⭐ 171 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-06
+* 🚀 [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly) ⭐ 171 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-07
 * [JavaScript/TypeScript - yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) ⭐ 116 | 🐛 12 | 🌐 TypeScript | 📅 2023-12-19 - Gotenberg **6.x** ⚠️
 * [PHP - thecodingmachine/gotenberg-php-client](https://github.com/thecodingmachine/gotenberg-php-client) ⚠️ Archived - Gotenberg **6.x** ⚠️
 * [Go - thecodingmachine/gotenberg-go-client](https://github.com/thecodingmachine/gotenberg-go-client) ⚠️ Archived - Gotenberg **6.x** ⚠️
@@ -53,10 +53,10 @@
 
 ## Applications
 
-* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 44,907 | 🐛 21 | 🌐 Python | 📅 2026-09-07 - a document management system that transforms your physical documents into a searchable online archive.
-* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,511 | 🐛 24 | 🌐 Go | 📅 2026-09-04 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
-* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,844 | 🐛 376 | 🌐 PHP | 📅 2026-09-04 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
-* [ShipSaaS/DocKing](https://github.com/shipsaas/docking) ⭐ 269 | 🐛 4 | 🌐 PHP | 📅 2024-05-23 - an open-source microservice to manage document templates & render PDFs for your apps.
+* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 44,922 | 🐛 17 | 🌐 Python | 📅 2026-09-08 - a document management system that transforms your physical documents into a searchable online archive.
+* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,514 | 🐛 24 | 🌐 Go | 📅 2026-09-07 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
+* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,845 | 🐛 376 | 🌐 PHP | 📅 2026-09-04 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
+* [ShipSaaS/DocKing](https://github.com/shipsaas/docking) ⭐ 268 | 🐛 4 | 🌐 PHP | 📅 2024-05-23 - an open-source microservice to manage document templates & render PDFs for your apps.
 * [papihack/document-templating-service](https://github.com/PapiHack/document-templating-service) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2023-03-21 - a lightweight microservice for processing your documents, powered by a templating engine for injecting variables defined in it and use Gotenberg for PDF rendering.
 * [SCM-Manager](https://scm-manager.org/) - an application to share and manage your Git, Mercurial and Subversion repositories, with a [Gotenberg](https://scm-manager.org/plugins/scm-gotenberg-plugin/) plugin. See also their [blog post](https://scm-manager.org/blog/posts/2021-11-17-scm-manager-2-27-0/).
 * [Corteza](https://cortezaproject.org/) - a free, open-source, Low Code platform for building your organisation’s key applications. They use [Gotenberg](https://docs.cortezaproject.org/corteza-docs/2021.9/devops-guide/extension-requirements/pdf-renderer.html) for PDF rendering.
@@ -79,4 +79,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
