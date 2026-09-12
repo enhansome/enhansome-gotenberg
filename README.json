@@ -60,7 +60,7 @@
             "open_issues": 23,
             "owner": "sensiolabs",
             "repo": "GotenbergBundle",
-            "stars": 237,
+            "stars": 239,
             "topics": [
               "csv",
               "gotenberg",
@@ -129,7 +129,7 @@
             "id": 472728976,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T00:27:55Z",
+            "last_commit": "2026-09-11T17:05:33Z",
             "open_issues": 4,
             "owner": "cherfia",
             "repo": "chromiumly",
@@ -209,6 +209,33 @@
         },
         {
           "node_type": "item",
+          "title": "🚀 Python - stumpylog/gotenberg-client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Python client for interfacing with the Gotenberg API for PDF operations",
+            "homepage": "https://stumpylog.github.io/gotenberg-client/",
+            "id": 703202359,
+            "language": "Python",
+            "license": "MPL-2.0",
+            "last_commit": "2026-09-01T11:09:07Z",
+            "open_issues": 2,
+            "owner": "stumpylog",
+            "repo": "gotenberg-client",
+            "stars": 57,
+            "topics": [
+              "api",
+              "gotenberg",
+              "hacktoberfest",
+              "pdf",
+              "python3"
+            ]
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
+        },
+        {
+          "node_type": "item",
           "title": "Go - thecodingmachine/gotenberg-go-client",
           "description": "Gotenberg 6.x ⚠️",
           "children": [],
@@ -235,33 +262,6 @@
               "pdf-converter",
               "powerpoint",
               "word"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🚀 Python - stumpylog/gotenberg-client",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Python client for interfacing with the Gotenberg API for PDF operations",
-            "homepage": "https://stumpylog.github.io/gotenberg-client/",
-            "id": 703202359,
-            "language": "Python",
-            "license": "MPL-2.0",
-            "last_commit": "2026-09-01T11:09:07Z",
-            "open_issues": 2,
-            "owner": "stumpylog",
-            "repo": "gotenberg-client",
-            "stars": 56,
-            "topics": [
-              "api",
-              "gotenberg",
-              "hacktoberfest",
-              "pdf",
-              "python3"
             ]
           },
           "first_seen": "2026-08-28T15:38:41.380Z"
@@ -609,11 +609,11 @@
             "id": 458648791,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T06:40:38Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-12T00:50:46Z",
+            "open_issues": 8,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 45001,
+            "stars": 45023,
             "topics": [
               "ai",
               "angular",
@@ -647,7 +647,7 @@
             "open_issues": 23,
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10525,
+            "stars": 10532,
             "topics": [
               "analytics",
               "billing",
@@ -683,11 +683,11 @@
             "id": 2686502,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T02:29:44Z",
-            "open_issues": 371,
+            "last_commit": "2026-09-11T09:28:03Z",
+            "open_issues": 372,
             "owner": "pimcore",
             "repo": "pimcore",
-            "stars": 3846,
+            "stars": 3847,
             "topics": [
               "cdp",
               "cms",
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T08:17:13.345Z",
+    "last_updated": "2026-09-12T08:07:08.883Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rainbow: A curated list of awesome things related to Gotenberg.",
