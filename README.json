@@ -403,8 +403,8 @@
             "id": 725321953,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-09-13T02:06:54Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-20T02:04:43Z",
+            "open_issues": 5,
             "owner": "marrek13",
             "repo": "kotenberg",
             "stars": 13,
@@ -609,11 +609,11 @@
             "id": 458648791,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T03:19:37Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-20T04:12:47Z",
+            "open_issues": 10,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 45299,
+            "stars": 45326,
             "topics": [
               "ai",
               "angular",
@@ -647,7 +647,7 @@
             "open_issues": 22,
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10578,
+            "stars": 10580,
             "topics": [
               "analytics",
               "billing",
@@ -684,7 +684,7 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-09-18T20:24:21Z",
-            "open_issues": 362,
+            "open_issues": 365,
             "owner": "pimcore",
             "repo": "pimcore",
             "stars": 3849,
@@ -729,7 +729,7 @@
             "open_issues": 4,
             "owner": "shipsaas",
             "repo": "docking",
-            "stars": 268,
+            "stars": 267,
             "topics": [
               "document",
               "document-templates",
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:16:26.448Z",
+    "last_updated": "2026-09-20T08:48:59.829Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rainbow: A curated list of awesome things related to Gotenberg.",
