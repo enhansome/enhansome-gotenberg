@@ -27,10 +27,10 @@
 * 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php) ⭐ 399 | 🐛 0 | 🌐 PHP | 📅 2026-08-14
 * 🚀 [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle) ⭐ 239 | 🐛 25 | 🌐 PHP | 📅 2026-09-16
 * 🚀 [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient) ⭐ 210 | 🐛 0 | 🌐 C# | 📅 2026-08-19
-* 🚀 [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly) ⭐ 172 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-24
+* 🚀 [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly) ⭐ 172 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-26
 * [JavaScript/TypeScript - yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) ⭐ 116 | 🐛 12 | 🌐 TypeScript | 📅 2023-12-19 - Gotenberg **6.x** ⚠️
 * [PHP - thecodingmachine/gotenberg-php-client](https://github.com/thecodingmachine/gotenberg-php-client) ⚠️ Archived - Gotenberg **6.x** ⚠️
-* 🚀 [Python - stumpylog/gotenberg-client](https://github.com/stumpylog/gotenberg-client) ⭐ 58 | 🐛 2 | 🌐 Python | 📅 2026-09-01
+* 🚀 [Python - stumpylog/gotenberg-client](https://github.com/stumpylog/gotenberg-client) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2026-09-01
 * [Go - thecodingmachine/gotenberg-go-client](https://github.com/thecodingmachine/gotenberg-go-client) ⚠️ Archived - Gotenberg **6.x** ⚠️
 * 🚀 [Ruby - sanzstez/gotenberg-ruby](https://github.com/sanzstez/gotenberg-ruby) ⭐ 53 | 🐛 3 | 🌐 Ruby | 📅 2026-07-12
 * 🚀 [Go - starwalkn/gotenberg-go-client](https://github.com/starwalkn/gotenberg-go-client) ⭐ 48 | 🐛 0 | 🌐 Rich Text Format | 📅 2025-11-18
@@ -53,11 +53,11 @@
 
 ## Applications
 
-* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 46,001 | 🐛 2 | 🌐 Python | 📅 2026-09-25 - a document management system that transforms your physical documents into a searchable online archive.
-* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,610 | 🐛 23 | 🌐 Go | 📅 2026-09-24 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
-* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,856 | 🐛 366 | 🌐 PHP | 📅 2026-09-25 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
+* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 46,030 | 🐛 2 | 🌐 Python | 📅 2026-09-26 - a document management system that transforms your physical documents into a searchable online archive.
+* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,614 | 🐛 25 | 🌐 Go | 📅 2026-09-25 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
+* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,857 | 🐛 363 | 🌐 PHP | 📅 2026-09-26 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
 * [ShipSaaS/DocKing](https://github.com/shipsaas/docking) ⭐ 267 | 🐛 4 | 🌐 PHP | 📅 2024-05-23 - an open-source microservice to manage document templates & render PDFs for your apps.
-* [papihack/document-templating-service](https://github.com/PapiHack/document-templating-service) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2023-03-21 - a lightweight microservice for processing your documents, powered by a templating engine for injecting variables defined in it and use Gotenberg for PDF rendering.
+* [papihack/document-templating-service](https://github.com/PapiHack/document-templating-service) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2023-03-21 - a lightweight microservice for processing your documents, powered by a templating engine for injecting variables defined in it and use Gotenberg for PDF rendering.
 * [SCM-Manager](https://scm-manager.org/) - an application to share and manage your Git, Mercurial and Subversion repositories, with a [Gotenberg](https://scm-manager.org/plugins/scm-gotenberg-plugin/) plugin. See also their [blog post](https://scm-manager.org/blog/posts/2021-11-17-scm-manager-2-27-0/).
 * [Corteza](https://cortezaproject.org/) - a free, open-source, Low Code platform for building your organisation’s key applications. They use [Gotenberg](https://docs.cortezaproject.org/corteza-docs/2021.9/devops-guide/extension-requirements/pdf-renderer.html) for PDF rendering.
 * [Cassiopeia](https://www.cassiopeia-api.cloud) - a micro SaaS API that helps to streamline the creation of PDF documents for your application, offering features like merging and variable data embedding. It's a simple and reliable all-in-one solution for generating invoices, offers, reports, serial letters, etc.
@@ -79,4 +79,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
