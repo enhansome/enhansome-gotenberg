@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "🚀 PHP - gotenberg/gotenberg-php",
-          "description": null,
+          "description": "gotenberg/gotenberg-php",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -47,7 +47,7 @@
         {
           "node_type": "item",
           "title": "🚀 PHP/Symfony - sensiolabs/gotenberg-bundle",
-          "description": null,
+          "description": "sensiolabs/GotenbergBundle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,7 +80,7 @@
         {
           "node_type": "item",
           "title": "🚀 C# - ChangemakerStudios/GotenbergSharpApiClient",
-          "description": null,
+          "description": "ChangemakerStudios/GotenbergSharpApiClient",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -120,7 +120,7 @@
         {
           "node_type": "item",
           "title": "🚀 TypeScript - cherfia/chromiumly",
-          "description": null,
+          "description": "cherfia/chromiumly",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -210,7 +210,7 @@
         {
           "node_type": "item",
           "title": "🚀 Python - stumpylog/gotenberg-client",
-          "description": null,
+          "description": "stumpylog/gotenberg-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -269,7 +269,7 @@
         {
           "node_type": "item",
           "title": "🚀 Ruby - sanzstez/gotenberg-ruby",
-          "description": null,
+          "description": "sanzstez/gotenberg-ruby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -290,7 +290,7 @@
         {
           "node_type": "item",
           "title": "🚀 Go - starwalkn/gotenberg-go-client",
-          "description": null,
+          "description": "starwalkn/gotenberg-go-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,7 +320,7 @@
         {
           "node_type": "item",
           "title": "🚀 Java - cherfia/jotenberg",
-          "description": null,
+          "description": "cherfia/jotenberg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -352,7 +352,7 @@
         {
           "node_type": "item",
           "title": "🚀 Swift - thoven87/gotenberg-kit",
-          "description": null,
+          "description": "thoven87/gotenberg-kit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -394,7 +394,7 @@
         {
           "node_type": "item",
           "title": "🚀 Kotlin - marrek13/kotenberg",
-          "description": null,
+          "description": "marrek13/kotenberg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -415,7 +415,7 @@
         {
           "node_type": "item",
           "title": "🚀 Go - nativebpm/gotenberg (Stream-first: Built on httpclient for efficient multipart uploads)",
-          "description": null,
+          "description": "nativebpm/gotenberg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -444,7 +444,7 @@
         {
           "node_type": "item",
           "title": "Ruby - jbd0101/ruby-gotenberg-client",
-          "description": null,
+          "description": "jbd0101/ruby-gotenberg-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -492,7 +492,7 @@
         {
           "node_type": "item",
           "title": "🚀 Java/Spring - ooraini/gotenberg-spring",
-          "description": null,
+          "description": "ooraini/gotenberg-spring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -513,7 +513,7 @@
         {
           "node_type": "item",
           "title": "🚀 PHP/Laravel - igeek/pdfservice",
-          "description": null,
+          "description": "coolamit/igeek-pdfservice",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -540,7 +540,7 @@
         {
           "node_type": "item",
           "title": "Deno - EC-Nordbund/gotenberg",
-          "description": null,
+          "description": "EC-Nordbund/gotenberg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -609,11 +609,11 @@
             "id": 458648791,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T06:01:03Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-03T03:42:38Z",
+            "open_issues": 9,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 46228,
+            "stars": 46238,
             "topics": [
               "ai",
               "angular",
@@ -683,8 +683,8 @@
             "id": 2686502,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T09:46:57Z",
-            "open_issues": 365,
+            "last_commit": "2026-10-02T14:58:59Z",
+            "open_issues": 358,
             "owner": "pimcore",
             "repo": "pimcore",
             "stars": 3858,
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:01:55.122Z",
+    "last_updated": "2026-10-03T04:48:14.677Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rainbow: A curated list of awesome things related to Gotenberg.",
