@@ -129,7 +129,7 @@
             "id": 472728976,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T04:23:18Z",
+            "last_commit": "2026-10-03T09:14:37Z",
             "open_issues": 5,
             "owner": "cherfia",
             "repo": "chromiumly",
@@ -613,7 +613,7 @@
             "open_issues": 9,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 46238,
+            "stars": 46243,
             "topics": [
               "ai",
               "angular",
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:48:14.677Z",
+    "last_updated": "2026-10-03T09:24:38.412Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rainbow: A curated list of awesome things related to Gotenberg.",
