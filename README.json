@@ -129,8 +129,8 @@
             "id": 472728976,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T09:14:37Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-03T13:44:06Z",
+            "open_issues": 4,
             "owner": "cherfia",
             "repo": "chromiumly",
             "stars": 172,
@@ -290,7 +290,7 @@
         {
           "node_type": "item",
           "title": "🚀 Go - starwalkn/gotenberg-go-client",
-          "description": "starwalkn/gotenberg-go-client",
+          "description": "voidrunner3074/gotenberg-go-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -301,7 +301,7 @@
             "license": "MIT",
             "last_commit": "2025-11-18T15:35:11Z",
             "open_issues": 0,
-            "owner": "starwalkn",
+            "owner": "voidrunner3074",
             "repo": "gotenberg-go-client",
             "stars": 48,
             "topics": [
@@ -403,7 +403,7 @@
             "id": 725321953,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-09-20T02:04:43Z",
+            "last_commit": "2026-10-04T02:04:03Z",
             "open_issues": 5,
             "owner": "marrek13",
             "repo": "kotenberg",
@@ -609,11 +609,11 @@
             "id": 458648791,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T03:42:38Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-04T01:28:32Z",
+            "open_issues": 6,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 46243,
+            "stars": 46264,
             "topics": [
               "ai",
               "angular",
@@ -647,7 +647,7 @@
             "open_issues": 26,
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10650,
+            "stars": 10653,
             "topics": [
               "analytics",
               "billing",
@@ -760,7 +760,7 @@
             "open_issues": 0,
             "owner": "PapiHack",
             "repo": "document-templating-service",
-            "stars": 64,
+            "stars": 65,
             "topics": [
               "doc2pdf",
               "docker",
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:24:38.412Z",
+    "last_updated": "2026-10-04T10:04:16.969Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rainbow: A curated list of awesome things related to Gotenberg.",
