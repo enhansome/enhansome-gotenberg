@@ -610,10 +610,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-06T04:14:22Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 46316,
+            "stars": 46318,
             "topics": [
               "ai",
               "angular",
@@ -647,7 +647,7 @@
             "open_issues": 26,
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10660,
+            "stars": 10659,
             "topics": [
               "analytics",
               "billing",
@@ -683,7 +683,7 @@
             "id": 2686502,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T11:16:47Z",
+            "last_commit": "2026-10-06T10:53:34Z",
             "open_issues": 359,
             "owner": "pimcore",
             "repo": "pimcore",
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:30:05.761Z",
+    "last_updated": "2026-10-06T11:10:32.127Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rainbow: A curated list of awesome things related to Gotenberg.",
