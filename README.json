@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "gotenberg",
             "repo": "gotenberg-php",
-            "stars": 399,
+            "stars": 400,
             "topics": [
               "chromium",
               "conversion",
@@ -609,11 +609,11 @@
             "id": 458648791,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T00:59:05Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-09T01:01:02Z",
+            "open_issues": 3,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 46385,
+            "stars": 46429,
             "topics": [
               "ai",
               "angular",
@@ -643,11 +643,11 @@
             "id": 464415161,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-08T09:58:15Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-09T09:08:03Z",
+            "open_issues": 28,
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10664,
+            "stars": 10665,
             "topics": [
               "analytics",
               "billing",
@@ -683,11 +683,11 @@
             "id": 2686502,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T10:51:38Z",
-            "open_issues": 339,
+            "last_commit": "2026-10-09T10:11:04Z",
+            "open_issues": 335,
             "owner": "pimcore",
             "repo": "pimcore",
-            "stars": 3869,
+            "stars": 3870,
             "topics": [
               "cdp",
               "cms",
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T10:54:19.294Z",
+    "last_updated": "2026-10-09T10:53:10.693Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rainbow: A curated list of awesome things related to Gotenberg.",
