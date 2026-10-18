@@ -403,7 +403,7 @@
             "id": 725321953,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-10-11T02:10:07Z",
+            "last_commit": "2026-10-18T02:06:08Z",
             "open_issues": 5,
             "owner": "marrek13",
             "repo": "kotenberg",
@@ -609,11 +609,11 @@
             "id": 458648791,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-17T00:48:57Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-18T00:54:22Z",
+            "open_issues": 18,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 46783,
+            "stars": 46823,
             "topics": [
               "ai",
               "angular",
@@ -647,7 +647,7 @@
             "open_issues": 33,
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10688,
+            "stars": 10689,
             "topics": [
               "analytics",
               "billing",
@@ -684,7 +684,7 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-10-16T13:59:15Z",
-            "open_issues": 316,
+            "open_issues": 317,
             "owner": "pimcore",
             "repo": "pimcore",
             "stars": 3877,
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:01:02.079Z",
+    "last_updated": "2026-10-18T08:18:38.031Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rainbow: A curated list of awesome things related to Gotenberg.",
