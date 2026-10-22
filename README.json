@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "gotenberg",
             "repo": "gotenberg-php",
-            "stars": 401,
+            "stars": 402,
             "topics": [
               "chromium",
               "conversion",
@@ -129,8 +129,8 @@
             "id": 472728976,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T01:34:51Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-21T17:15:22Z",
+            "open_issues": 4,
             "owner": "cherfia",
             "repo": "chromiumly",
             "stars": 172,
@@ -223,7 +223,7 @@
             "open_issues": 1,
             "owner": "stumpylog",
             "repo": "gotenberg-client",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "api",
               "gotenberg",
@@ -303,7 +303,7 @@
             "open_issues": 0,
             "owner": "voidrunner3074",
             "repo": "gotenberg-go-client",
-            "stars": 50,
+            "stars": 49,
             "topics": [
               "chromium",
               "conversion",
@@ -609,11 +609,11 @@
             "id": 458648791,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-21T06:55:14Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-22T08:12:18Z",
+            "open_issues": 10,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 46952,
+            "stars": 46988,
             "topics": [
               "ai",
               "angular",
@@ -647,7 +647,7 @@
             "open_issues": 33,
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10700,
+            "stars": 10704,
             "topics": [
               "analytics",
               "billing",
@@ -683,8 +683,8 @@
             "id": 2686502,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T07:49:53Z",
-            "open_issues": 304,
+            "last_commit": "2026-10-21T16:51:44Z",
+            "open_issues": 294,
             "owner": "pimcore",
             "repo": "pimcore",
             "stars": 3879,
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:51:27.543Z",
+    "last_updated": "2026-10-22T08:54:02.863Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rainbow: A curated list of awesome things related to Gotenberg.",
