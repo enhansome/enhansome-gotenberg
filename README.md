@@ -53,9 +53,9 @@
 
 ## Applications
 
-* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 47,345 | 🐛 5 | 🌐 Python | 📅 2026-10-30 - a document management system that transforms your physical documents into a searchable online archive.
-* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,725 | 🐛 32 | 🌐 Go | 📅 2026-10-29 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
-* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,885 | 🐛 241 | 🌐 PHP | 📅 2026-10-30 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
+* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 47,422 | 🐛 5 | 🌐 Python | 📅 2026-10-31 - a document management system that transforms your physical documents into a searchable online archive.
+* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,732 | 🐛 22 | 🌐 Go | 📅 2026-10-30 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
+* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,886 | 🐛 217 | 🌐 PHP | 📅 2026-10-31 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
 * [ShipSaaS/DocKing](https://github.com/shipsaas/docking) ⭐ 267 | 🐛 4 | 🌐 PHP | 📅 2024-05-23 - an open-source microservice to manage document templates & render PDFs for your apps.
 * [papihack/document-templating-service](https://github.com/PapiHack/document-templating-service) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2023-03-21 - a lightweight microservice for processing your documents, powered by a templating engine for injecting variables defined in it and use Gotenberg for PDF rendering.
 * [Gotenui](https://github.com/nktnet1/gotenui) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-30 - Web interface for PDF conversion and processing powered by Gotenberg.
@@ -69,7 +69,7 @@
 * [Gotenberg's GitHub organization](https://github.com/gotenberg)
 * [Grafikart's tutorial](https://grafikart.fr/tutoriels/gotenberg-php-pdf-1157) 🇫🇷 - Gotenberg **5.x** ⚠️
 * [ardas-it.com - How to Preview Document or File in a Browser for SaaS](https://ardas-it.com/how-to-preview-document-or-file-in-a-browser-for-saas)
-* [MaikuMori/helm-charts](https://github.com/MaikuMori/helm-charts) ⭐ 33 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-23 - A Gotenberg helm chart, also available on [ArtifactHub](https://artifacthub.io/packages/helm/maikumori/gotenberg)
+* [MaikuMori/helm-charts](https://github.com/MaikuMori/helm-charts) ⭐ 34 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-30 - A Gotenberg helm chart, also available on [ArtifactHub](https://artifacthub.io/packages/helm/maikumori/gotenberg)
 
 ## YouTube
 
@@ -80,4 +80,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
