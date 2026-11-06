@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": null,
+      "description": "🚀 supports Gotenberg 9.⚠️ built for an earlier version of Gotenberg.",
       "items": [
         {
           "node_type": "item",
@@ -15,11 +15,11 @@
             "id": 431808004,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-05T11:12:23Z",
+            "last_commit": "2026-11-06T09:20:07Z",
             "open_issues": 0,
             "owner": "gotenberg",
             "repo": "gotenberg-php",
-            "stars": 403,
+            "stars": 404,
             "topics": [
               "chromium",
               "conversion",
@@ -46,8 +46,8 @@
         },
         {
           "node_type": "item",
-          "title": "🚀 PHP/Symfony - sensiolabs/gotenberg-bundle",
-          "description": "sensiolabs/GotenbergBundle",
+          "title": "PHP/Symfony - sensiolabs/gotenberg-bundle",
+          "description": "Gotenberg 8.x ⚠️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -79,8 +79,8 @@
         },
         {
           "node_type": "item",
-          "title": "🚀 C# - ChangemakerStudios/GotenbergSharpApiClient",
-          "description": "ChangemakerStudios/GotenbergSharpApiClient",
+          "title": "C# - ChangemakerStudios/GotenbergSharpApiClient",
+          "description": "Gotenberg 8.x ⚠️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -119,8 +119,8 @@
         },
         {
           "node_type": "item",
-          "title": "🚀 TypeScript - cherfia/chromiumly",
-          "description": "cherfia/chromiumly",
+          "title": "TypeScript - cherfia/chromiumly",
+          "description": "Gotenberg 8.x ⚠️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -129,7 +129,7 @@
             "id": 472728976,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T16:06:02Z",
+            "last_commit": "2026-11-05T22:43:05Z",
             "open_issues": 4,
             "owner": "cherfia",
             "repo": "chromiumly",
@@ -209,8 +209,8 @@
         },
         {
           "node_type": "item",
-          "title": "🚀 Python - stumpylog/gotenberg-client",
-          "description": "stumpylog/gotenberg-client",
+          "title": "Python - stumpylog/gotenberg-client",
+          "description": "Gotenberg 8.x ⚠️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -219,8 +219,8 @@
             "id": 703202359,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-01T11:10:59Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-05T21:08:46Z",
+            "open_issues": 2,
             "owner": "stumpylog",
             "repo": "gotenberg-client",
             "stars": 61,
@@ -268,8 +268,8 @@
         },
         {
           "node_type": "item",
-          "title": "🚀 Ruby - sanzstez/gotenberg-ruby",
-          "description": "sanzstez/gotenberg-ruby",
+          "title": "Ruby - sanzstez/gotenberg-ruby",
+          "description": "Gotenberg 8.x ⚠️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -289,8 +289,8 @@
         },
         {
           "node_type": "item",
-          "title": "🚀 Go - starwalkn/gotenberg-go-client",
-          "description": "voidrunner3074/gotenberg-go-client",
+          "title": "Go - starwalkn/gotenberg-go-client",
+          "description": "Gotenberg 8.x ⚠️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -319,8 +319,8 @@
         },
         {
           "node_type": "item",
-          "title": "🚀 Java - cherfia/jotenberg",
-          "description": "cherfia/jotenberg",
+          "title": "Java - cherfia/jotenberg",
+          "description": "Gotenberg 8.x ⚠️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -351,8 +351,8 @@
         },
         {
           "node_type": "item",
-          "title": "🚀 Swift - thoven87/gotenberg-kit",
-          "description": "thoven87/gotenberg-kit",
+          "title": "Swift - thoven87/gotenberg-kit",
+          "description": "Gotenberg 8.x ⚠️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -393,8 +393,8 @@
         },
         {
           "node_type": "item",
-          "title": "🚀 Kotlin - marrek13/kotenberg",
-          "description": "marrek13/kotenberg",
+          "title": "Kotlin - marrek13/kotenberg",
+          "description": "Gotenberg 8.x ⚠️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -414,8 +414,8 @@
         },
         {
           "node_type": "item",
-          "title": "🚀 Go - nativebpm/gotenberg (Stream-first: Built on httpclient for efficient multipart uploads)",
-          "description": "nativebpm/gotenberg",
+          "title": "Go - nativebpm/gotenberg (Stream-first: Built on httpclient for efficient multipart uploads)",
+          "description": "Gotenberg 8.x ⚠️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -491,8 +491,8 @@
         },
         {
           "node_type": "item",
-          "title": "🚀 Java/Spring - ooraini/gotenberg-spring",
-          "description": "ooraini/gotenberg-spring",
+          "title": "Java/Spring - ooraini/gotenberg-spring",
+          "description": "Gotenberg 8.x ⚠️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -512,8 +512,8 @@
         },
         {
           "node_type": "item",
-          "title": "🚀 PHP/Laravel - igeek/pdfservice",
-          "description": "coolamit/igeek-pdfservice",
+          "title": "PHP/Laravel - igeek/pdfservice",
+          "description": "Gotenberg 8.x ⚠️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -609,11 +609,11 @@
             "id": 458648791,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T04:30:22Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-06T03:09:06Z",
+            "open_issues": 10,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 47718,
+            "stars": 47759,
             "topics": [
               "ai",
               "angular",
@@ -643,11 +643,11 @@
             "id": 464415161,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-04T15:15:09Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-05T22:22:51Z",
+            "open_issues": 19,
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10760,
+            "stars": 10771,
             "topics": [
               "analytics",
               "billing",
@@ -683,8 +683,8 @@
             "id": 2686502,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T10:16:39Z",
-            "open_issues": 170,
+            "last_commit": "2026-11-06T11:24:33Z",
+            "open_issues": 169,
             "owner": "pimcore",
             "repo": "pimcore",
             "stars": 3889,
@@ -787,8 +787,8 @@
             "id": 1412635296,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-30T05:12:46Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-06T08:18:42Z",
+            "open_issues": 1,
             "owner": "nktnet1",
             "repo": "gotenui",
             "stars": 1,
@@ -807,7 +807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T11:28:29.161Z",
+    "last_updated": "2026-11-06T11:26:40.167Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rainbow: A curated list of awesome things related to Gotenberg.",
@@ -815,7 +815,7 @@
       "id": 398847871,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-29T08:26:18Z",
+      "last_commit": "2026-11-05T21:59:12Z",
       "open_issues": 0,
       "owner": "gotenberg",
       "repo": "awesome-gotenberg",
@@ -828,7 +828,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "5ba4963db037c720a666632bb3a617b2d0642ac4",
+    "original_repository_sha": "6da9edbddf085a735f4e729b8ef7cd1e04c10090",
     "enhanced_repository": "enhansome/enhansome-gotenberg",
     "enhanced_repository_description": null,
     "title": "Awesome gotenberg with stars"
