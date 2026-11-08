@@ -28,9 +28,9 @@
 >
 > ⚠️ built for an earlier version of Gotenberg.
 
-* 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php) ⭐ 404 | 🐛 0 | 🌐 PHP | 📅 2026-11-06
+* 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php) ⭐ 404 | 🐛 0 | 🌐 PHP | 📅 2026-11-08
 * [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle) ⭐ 241 | 🐛 31 | 🌐 PHP | 📅 2026-09-16 - Gotenberg **8.x** ⚠️
-* [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient) ⭐ 211 | 🐛 10 | 🌐 C# | 📅 2026-08-19 - Gotenberg **8.x** ⚠️
+* [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient) ⭐ 211 | 🐛 5 | 🌐 C# | 📅 2026-11-08 - Gotenberg **8.x** ⚠️
 * [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly) ⭐ 173 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-05 - Gotenberg **8.x** ⚠️
 * [JavaScript/TypeScript - yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) ⭐ 116 | 🐛 12 | 🌐 TypeScript | 📅 2023-12-19 - Gotenberg **6.x** ⚠️
 * [PHP - thecodingmachine/gotenberg-php-client](https://github.com/thecodingmachine/gotenberg-php-client) ⚠️ Archived - Gotenberg **6.x** ⚠️
@@ -40,7 +40,7 @@
 * [Go - starwalkn/gotenberg-go-client](https://github.com/starwalkn/gotenberg-go-client) ⭐ 49 | 🐛 0 | 🌐 Rich Text Format | 📅 2025-11-18 - Gotenberg **8.x** ⚠️
 * [Java - cherfia/jotenberg](https://github.com/cherfia/jotenberg) ⭐ 38 | 🐛 0 | 🌐 Java | 📅 2026-03-31 - Gotenberg **8.x** ⚠️
 * [Swift - thoven87/gotenberg-kit](https://github.com/thoven87/gotenberg-kit) ⭐ 14 | 🐛 3 | 🌐 Swift | 📅 2026-06-19 - Gotenberg **8.x** ⚠️
-* [Kotlin - marrek13/kotenberg](https://github.com/marrek13/kotenberg) ⭐ 13 | 🐛 0 | 🌐 Kotlin | 📅 2026-11-02 - Gotenberg **8.x** ⚠️
+* [Kotlin - marrek13/kotenberg](https://github.com/marrek13/kotenberg) ⭐ 13 | 🐛 2 | 🌐 Kotlin | 📅 2026-11-08 - Gotenberg **8.x** ⚠️
 * [Go - nativebpm/gotenberg (Stream-first: Built on httpclient for efficient multipart uploads)](https://github.com/nativebpm/gotenberg) ⭐ 11 | 🐛 1 | 🌐 Go | 📅 2026-06-23 - Gotenberg **8.x** ⚠️
 * [Ruby - jbd0101/ruby-gotenberg-client](https://github.com/jbd0101/ruby-gotenberg-client) ⭐ 9 | 🐛 0 | 🌐 Ruby | 📅 2023-01-08
 * [Word Document Template to PDF - EC-Nordbund/docx-templates-to-pdf](https://github.com/EC-Nordbund/docx-templates-to-pdf) ⚠️ Archived - Gotenberg **6.x** ⚠️
@@ -57,12 +57,12 @@
 
 ## Applications
 
-* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 47,800 | 🐛 5 | 🌐 Python | 📅 2026-11-07 - a document management system that transforms your physical documents into a searchable online archive.
-* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,770 | 🐛 19 | 🌐 Go | 📅 2026-11-06 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
-* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,889 | 🐛 167 | 🌐 PHP | 📅 2026-11-07 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
+* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 47,861 | 🐛 7 | 🌐 Python | 📅 2026-11-08 - a document management system that transforms your physical documents into a searchable online archive.
+* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,777 | 🐛 19 | 🌐 Go | 📅 2026-11-06 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
+* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,889 | 🐛 168 | 🌐 PHP | 📅 2026-11-07 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
 * [ShipSaaS/DocKing](https://github.com/shipsaas/docking) ⭐ 266 | 🐛 4 | 🌐 PHP | 📅 2024-05-23 - an open-source microservice to manage document templates & render PDFs for your apps.
 * [papihack/document-templating-service](https://github.com/PapiHack/document-templating-service) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2023-03-21 - a lightweight microservice for processing your documents, powered by a templating engine for injecting variables defined in it and use Gotenberg for PDF rendering.
-* [Gotenui](https://github.com/nktnet1/gotenui) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-07 - Web interface for PDF conversion and processing powered by Gotenberg.
+* [Gotenui](https://github.com/nktnet1/gotenui) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-08 - Web interface for PDF conversion and processing powered by Gotenberg.
 * [SCM-Manager](https://scm-manager.org/) - an application to share and manage your Git, Mercurial and Subversion repositories, with a [Gotenberg](https://scm-manager.org/plugins/scm-gotenberg-plugin/) plugin. See also their [blog post](https://scm-manager.org/blog/posts/2021-11-17-scm-manager-2-27-0/).
 * [Corteza](https://cortezaproject.org/) - a free, open-source, Low Code platform for building your organisation’s key applications. They use [Gotenberg](https://docs.cortezaproject.org/corteza-docs/2021.9/devops-guide/extension-requirements/pdf-renderer.html) for PDF rendering.
 * [Cassiopeia](https://www.cassiopeia-api.cloud) - a micro SaaS API that helps to streamline the creation of PDF documents for your application, offering features like merging and variable data embedding. It's a simple and reliable all-in-one solution for generating invoices, offers, reports, serial letters, etc.
@@ -84,4 +84,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
