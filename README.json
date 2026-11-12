@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "gotenberg",
             "repo": "gotenberg-php",
-            "stars": 406,
+            "stars": 407,
             "topics": [
               "chromium",
               "conversion",
@@ -443,6 +443,27 @@
         },
         {
           "node_type": "item",
+          "title": "Java/Spring - ooraini/gotenberg-spring",
+          "description": "Gotenberg 8.x ⚠️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A lightweight Java client for Gotenberg using Spring HTTP interfaces",
+            "homepage": null,
+            "id": 1139000670,
+            "language": "Java",
+            "license": "Apache-2.0",
+            "last_commit": "2026-01-28T11:33:42Z",
+            "open_issues": 3,
+            "owner": "ooraini",
+            "repo": "gotenberg-spring",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:38:41.380Z"
+        },
+        {
+          "node_type": "item",
           "title": "Ruby - jbd0101/ruby-gotenberg-client",
           "description": "jbd0101/ruby-gotenberg-client",
           "children": [],
@@ -518,27 +539,6 @@
         },
         {
           "node_type": "item",
-          "title": "Java/Spring - ooraini/gotenberg-spring",
-          "description": "Gotenberg 8.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A lightweight Java client for Gotenberg using Spring HTTP interfaces",
-            "homepage": null,
-            "id": 1139000670,
-            "language": "Java",
-            "license": "Apache-2.0",
-            "last_commit": "2026-01-28T11:33:42Z",
-            "open_issues": 3,
-            "owner": "ooraini",
-            "repo": "gotenberg-spring",
-            "stars": 5,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
           "title": "Deno - EC-Nordbund/gotenberg",
           "description": "EC-Nordbund/gotenberg",
           "children": [],
@@ -609,11 +609,11 @@
             "id": 458648791,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T05:44:36Z",
+            "last_commit": "2026-11-12T05:54:38Z",
             "open_issues": 7,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 48006,
+            "stars": 48049,
             "topics": [
               "ai",
               "angular",
@@ -643,11 +643,11 @@
             "id": 464415161,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-09T15:32:12Z",
+            "last_commit": "2026-11-12T10:44:15Z",
             "open_issues": 17,
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10795,
+            "stars": 10797,
             "topics": [
               "analytics",
               "billing",
@@ -683,11 +683,11 @@
             "id": 2686502,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T11:22:48Z",
-            "open_issues": 164,
+            "last_commit": "2026-11-12T11:04:00Z",
+            "open_issues": 151,
             "owner": "pimcore",
             "repo": "pimcore",
-            "stars": 3891,
+            "stars": 3893,
             "topics": [
               "cdp",
               "cms",
@@ -787,7 +787,7 @@
             "id": 1412635296,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-10T04:13:45Z",
+            "last_commit": "2026-11-12T01:56:43Z",
             "open_issues": 0,
             "owner": "nktnet1",
             "repo": "gotenui",
@@ -807,7 +807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:25:16.180Z",
+    "last_updated": "2026-11-12T11:47:26.128Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rainbow: A curated list of awesome things related to Gotenberg.",
