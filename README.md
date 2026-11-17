@@ -28,10 +28,10 @@
 >
 > ⚠️ built for an earlier version of Gotenberg.
 
-* 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php) ⭐ 407 | 🐛 0 | 🌐 PHP | 📅 2026-11-13
-* [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle) ⭐ 241 | 🐛 36 | 🌐 PHP | 📅 2026-09-16 - Gotenberg **8.x** ⚠️
-* [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient) ⭐ 213 | 🐛 4 | 🌐 C# | 📅 2026-11-15 - Gotenberg **8.x** ⚠️
-* [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly) ⭐ 172 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-15 - Gotenberg **8.x** ⚠️
+* 🚀 [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php) ⭐ 407 | 🐛 0 | 🌐 PHP | 📅 2026-11-16
+* [PHP/Symfony - sensiolabs/gotenberg-bundle](https://github.com/sensiolabs/GotenbergBundle) ⭐ 242 | 🐛 36 | 🌐 PHP | 📅 2026-09-16 - Gotenberg **8.x** ⚠️
+* [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient) ⭐ 213 | 🐛 5 | 🌐 C# | 📅 2026-11-15 - Gotenberg **8.x** ⚠️
+* [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly) ⭐ 172 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-17 - Gotenberg **8.x** ⚠️
 * [JavaScript/TypeScript - yumauri/gotenberg-js-client](https://github.com/yumauri/gotenberg-js-client) ⭐ 116 | 🐛 12 | 🌐 TypeScript | 📅 2023-12-19 - Gotenberg **6.x** ⚠️
 * [PHP - thecodingmachine/gotenberg-php-client](https://github.com/thecodingmachine/gotenberg-php-client) ⚠️ Archived - Gotenberg **6.x** ⚠️
 * [Python - stumpylog/gotenberg-client](https://github.com/stumpylog/gotenberg-client) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2026-11-08 - Gotenberg **8.x** ⚠️
@@ -57,9 +57,9 @@
 
 ## Applications
 
-* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 48,161 | 🐛 12 | 🌐 Python | 📅 2026-11-16 - a document management system that transforms your physical documents into a searchable online archive.
-* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,885 | 🐛 17 | 🌐 Go | 📅 2026-11-16 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
-* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,894 | 🐛 148 | 🌐 PHP | 📅 2026-11-16 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
+* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 48,191 | 🐛 8 | 🌐 Python | 📅 2026-11-17 - a document management system that transforms your physical documents into a searchable online archive.
+* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,891 | 🐛 17 | 🌐 Go | 📅 2026-11-17 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
+* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,894 | 🐛 147 | 🌐 PHP | 📅 2026-11-17 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
 * [ShipSaaS/DocKing](https://github.com/shipsaas/docking) ⭐ 265 | 🐛 4 | 🌐 PHP | 📅 2024-05-23 - an open-source microservice to manage document templates & render PDFs for your apps.
 * [papihack/document-templating-service](https://github.com/PapiHack/document-templating-service) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2023-03-21 - a lightweight microservice for processing your documents, powered by a templating engine for injecting variables defined in it and use Gotenberg for PDF rendering.
 * [Gotenui](https://github.com/nktnet1/gotenui) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-15 - Web interface for PDF conversion and processing powered by Gotenberg.
@@ -73,7 +73,7 @@
 * [Gotenberg's GitHub organization](https://github.com/gotenberg)
 * [Grafikart's tutorial](https://grafikart.fr/tutoriels/gotenberg-php-pdf-1157) 🇫🇷 - Gotenberg **5.x** ⚠️
 * [ardas-it.com - How to Preview Document or File in a Browser for SaaS](https://ardas-it.com/how-to-preview-document-or-file-in-a-browser-for-saas)
-* [MaikuMori/helm-charts](https://github.com/MaikuMori/helm-charts) ⭐ 34 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-13 - A Gotenberg helm chart, also available on [ArtifactHub](https://artifacthub.io/packages/helm/maikumori/gotenberg)
+* [MaikuMori/helm-charts](https://github.com/MaikuMori/helm-charts) ⭐ 35 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-17 - A Gotenberg helm chart, also available on [ArtifactHub](https://artifacthub.io/packages/helm/maikumori/gotenberg)
 
 ## YouTube
 
@@ -84,4 +84,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
