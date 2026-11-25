@@ -1,595 +1,616 @@
 {
   "items": [
     {
-      "description": "🚀 supports Gotenberg 9.⚠️ built for an earlier version of Gotenberg.",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "🚀 PHP - gotenberg/gotenberg-php",
-          "description": "gotenberg/gotenberg-php",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🐘 A PHP client for interacting with Gotenberg.",
-            "homepage": "https://gotenberg.dev",
-            "id": 431808004,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2026-11-19T13:34:54Z",
-            "open_issues": 0,
-            "owner": "gotenberg",
-            "repo": "gotenberg-php",
-            "stars": 406,
-            "topics": [
-              "chromium",
-              "conversion",
-              "csv",
-              "docx",
-              "excel",
-              "google-chrome",
-              "gotenberg",
-              "html",
-              "libreoffice",
-              "markdown",
-              "pdf",
-              "pdftk",
-              "php",
-              "pptx",
-              "puppeteer",
-              "unoconv",
-              "wkhtmltopdf",
-              "word",
-              "xlsx"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PHP - gotenberg/gotenberg-php",
+              "description": "gotenberg/gotenberg-php",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🐘 A PHP client for interacting with Gotenberg.",
+                "homepage": "https://gotenberg.dev",
+                "id": 431808004,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-11-24T20:49:55Z",
+                "open_issues": 0,
+                "owner": "gotenberg",
+                "repo": "gotenberg-php",
+                "stars": 406,
+                "topics": [
+                  "chromium",
+                  "conversion",
+                  "csv",
+                  "docx",
+                  "excel",
+                  "google-chrome",
+                  "gotenberg",
+                  "html",
+                  "libreoffice",
+                  "markdown",
+                  "pdf",
+                  "pdftk",
+                  "php",
+                  "pptx",
+                  "puppeteer",
+                  "unoconv",
+                  "wkhtmltopdf",
+                  "word",
+                  "xlsx"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "C# - ChangemakerStudios/GotenbergSharpApiClient",
+              "description": "ChangemakerStudios/GotenbergSharpApiClient",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": ".NET C# Client for the Gotenberg API",
+                "homepage": null,
+                "id": 183506022,
+                "language": "C#",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-24T13:52:51Z",
+                "open_issues": 3,
+                "owner": "ChangemakerStudios",
+                "repo": "GotenbergSharpApiClient",
+                "stars": 214,
+                "topics": [
+                  "api-client",
+                  "async",
+                  "csharp",
+                  "fluent",
+                  "gotenberg",
+                  "html-to-pdf",
+                  "httpclientfactory",
+                  "netstandard",
+                  "nuget",
+                  "nuget-package",
+                  "pdf",
+                  "pdf-converter",
+                  "pdf-generation",
+                  "pdf-merge",
+                  "polly-resilience",
+                  "typed-clients",
+                  "url-to-pdf",
+                  "word-to-pdf"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TypeScript - cherfia/chromiumly",
+              "description": "cherfia/chromiumly",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A lightweight Typescript library that interacts with Gotenberg's different modules to convert a variety of document formats to PDF files.",
+                "homepage": "https://docs.chromiumly.dev",
+                "id": 472728976,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-21T21:20:44Z",
+                "open_issues": 2,
+                "owner": "cherfia",
+                "repo": "chromiumly",
+                "stars": 172,
+                "topics": [
+                  "chromium",
+                  "docx",
+                  "gotenberg",
+                  "html",
+                  "libreoffice",
+                  "markdown",
+                  "pdf",
+                  "pptx",
+                  "screenshots",
+                  "templates",
+                  "xlsx"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Java - cherfia/jotenberg",
+              "description": "cherfia/jotenberg",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Java library that interacts with Gotenberg's different modules to convert a variety of document formats to PDF files.",
+                "homepage": null,
+                "id": 552349700,
+                "language": "Java",
+                "license": "MIT",
+                "last_commit": "2026-11-09T19:25:53Z",
+                "open_issues": 0,
+                "owner": "cherfia",
+                "repo": "jotenberg",
+                "stars": 38,
+                "topics": [
+                  "chromium",
+                  "dotx",
+                  "gotenberg",
+                  "html",
+                  "libreoffice",
+                  "markdown",
+                  "pdf",
+                  "pptx",
+                  "screenshots",
+                  "xslx"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Supports version 9"
         },
         {
-          "node_type": "item",
-          "title": "PHP/Symfony - sensiolabs/gotenberg-bundle",
-          "description": "Gotenberg 8.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Symfony Bundle for interacting with Gotenberg. Integrates natively with twig, router, PHPStorm and more !",
-            "homepage": null,
-            "id": 728285078,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2026-11-22T09:35:18Z",
-            "open_issues": 22,
-            "owner": "sensiolabs",
-            "repo": "GotenbergBundle",
-            "stars": 242,
-            "topics": [
-              "csv",
-              "gotenberg",
-              "html",
-              "markdown",
-              "office",
-              "pdf",
-              "pdf-generation",
-              "php",
-              "screenshot",
-              "symfony",
-              "symfony-bundle"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PHP/Symfony - sensiolabs/gotenberg-bundle",
+              "description": "Gotenberg 8.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Symfony Bundle for interacting with Gotenberg. Integrates natively with twig, router, PHPStorm and more !",
+                "homepage": null,
+                "id": 728285078,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-11-22T09:35:18Z",
+                "open_issues": 22,
+                "owner": "sensiolabs",
+                "repo": "GotenbergBundle",
+                "stars": 242,
+                "topics": [
+                  "csv",
+                  "gotenberg",
+                  "html",
+                  "markdown",
+                  "office",
+                  "pdf",
+                  "pdf-generation",
+                  "php",
+                  "screenshot",
+                  "symfony",
+                  "symfony-bundle"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Python - stumpylog/gotenberg-client",
+              "description": "Gotenberg 8.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Python client for interfacing with the Gotenberg API for PDF operations",
+                "homepage": "https://stumpylog.github.io/gotenberg-client/",
+                "id": 703202359,
+                "language": "Python",
+                "license": "MPL-2.0",
+                "last_commit": "2026-11-08T21:52:13Z",
+                "open_issues": 0,
+                "owner": "stumpylog",
+                "repo": "gotenberg-client",
+                "stars": 61,
+                "topics": [
+                  "api",
+                  "gotenberg",
+                  "hacktoberfest",
+                  "pdf",
+                  "python3"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Ruby - sanzstez/gotenberg-ruby",
+              "description": "Gotenberg 8.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A gem that provides a client interface for the Gotenberg PDF generate service",
+                "homepage": null,
+                "id": 535571664,
+                "language": "Ruby",
+                "license": "MIT",
+                "last_commit": "2026-07-12T11:27:27Z",
+                "open_issues": 3,
+                "owner": "sanzstez",
+                "repo": "gotenberg-ruby",
+                "stars": 54,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Go - starwalkn/gotenberg-go-client",
+              "description": "Gotenberg 8.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🦫 A Go client for interacting with Gotenberg.",
+                "homepage": null,
+                "id": 776458727,
+                "language": "Rich Text Format",
+                "license": "MIT",
+                "last_commit": "2025-11-18T15:35:11Z",
+                "open_issues": 0,
+                "owner": "voidrunner3074",
+                "repo": "gotenberg-go-client",
+                "stars": 49,
+                "topics": [
+                  "chromium",
+                  "conversion",
+                  "golang",
+                  "gotenberg",
+                  "html",
+                  "libreoffice",
+                  "markdown",
+                  "pdf"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Swift - thoven87/gotenberg-kit",
+              "description": "Gotenberg 8.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Gotenberg Swift Client which implements all the routes and features.",
+                "homepage": null,
+                "id": 971089038,
+                "language": "Swift",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-19T07:42:40Z",
+                "open_issues": 3,
+                "owner": "thoven87",
+                "repo": "gotenberg-kit",
+                "stars": 14,
+                "topics": [
+                  "api-client",
+                  "api-client-swift",
+                  "chromium",
+                  "convert-to-pdf",
+                  "docx-to-pdf",
+                  "dotx",
+                  "gotenberg",
+                  "html",
+                  "html-to-pdf",
+                  "libreoffice",
+                  "markdown",
+                  "pdf",
+                  "pdf-converter",
+                  "pptx",
+                  "screenshots",
+                  "server-side-swift",
+                  "serverside-swift",
+                  "swift",
+                  "wkhtmltopdf",
+                  "xslx"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Kotlin - marrek13/kotenberg",
+              "description": "Gotenberg 8.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 725321953,
+                "language": "Kotlin",
+                "license": "MIT",
+                "last_commit": "2026-11-22T02:04:01Z",
+                "open_issues": 4,
+                "owner": "marrek13",
+                "repo": "kotenberg",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Go - nativebpm/gotenberg (Stream-first: Built on httpclient for efficient multipart uploads)",
+              "description": "Gotenberg 8.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Go client for Gotenberg — document conversion service supporting Chromium, LibreOffice, and PDF manipulation engines.",
+                "homepage": "https://gotenberg.dev",
+                "id": 1063389290,
+                "language": "Go",
+                "license": null,
+                "last_commit": "2026-06-23T03:34:10Z",
+                "open_issues": 1,
+                "owner": "nativebpm",
+                "repo": "gotenberg",
+                "stars": 11,
+                "topics": [
+                  "chromium",
+                  "gotenberg",
+                  "libreoffice",
+                  "pdf-converter",
+                  "pdf-engine",
+                  "pdf-generation",
+                  "pdfeditor"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Java/Spring - ooraini/gotenberg-spring",
+              "description": "Gotenberg 8.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A lightweight Java client for Gotenberg using Spring HTTP interfaces",
+                "homepage": null,
+                "id": 1139000670,
+                "language": "Java",
+                "license": "Apache-2.0",
+                "last_commit": "2026-01-28T11:33:42Z",
+                "open_issues": 3,
+                "owner": "ooraini",
+                "repo": "gotenberg-spring",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Ruby - jbd0101/ruby-gotenberg-client",
+              "description": "Gotenberg 8.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 528994501,
+                "language": "Ruby",
+                "license": "MIT",
+                "last_commit": "2023-01-08T20:22:08Z",
+                "open_issues": 0,
+                "owner": "jbd0101",
+                "repo": "ruby-gotenberg-client",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PHP/Laravel - igeek/pdfservice",
+              "description": "Gotenberg 8.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Laravel package for generating PDFs using Gotenberg. Convert Blade views or raw HTML to PDF with support for headers, footers, custom page sizes, and more.",
+                "homepage": null,
+                "id": 1129615135,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-04-22T17:16:19Z",
+                "open_issues": 2,
+                "owner": "coolamit",
+                "repo": "igeek-pdfservice",
+                "stars": 5,
+                "topics": [
+                  "gotenberg",
+                  "laravel",
+                  "pdf",
+                  "pdf-generation",
+                  "php"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Deno - EC-Nordbund/gotenberg",
+              "description": "Gotenberg 8.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A gotenberg client for Deno",
+                "homepage": "https://doc.deno.land/https://deno.land/x/gotenberg/mod.ts",
+                "id": 452744058,
+                "language": "TypeScript",
+                "license": "GPL-3.0",
+                "last_commit": "2023-12-15T02:22:20Z",
+                "open_issues": 0,
+                "owner": "EC-Nordbund",
+                "repo": "gotenberg",
+                "stars": 4,
+                "topics": [
+                  "deno",
+                  "docx2pdf",
+                  "gotenberg",
+                  "office2pdf",
+                  "topdf",
+                  "xlsx2pdf"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Supports up to version 8"
         },
         {
-          "node_type": "item",
-          "title": "C# - ChangemakerStudios/GotenbergSharpApiClient",
-          "description": "Gotenberg 8.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ".NET C# Client for the Gotenberg API",
-            "homepage": null,
-            "id": 183506022,
-            "language": "C#",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-24T13:52:51Z",
-            "open_issues": 1,
-            "owner": "ChangemakerStudios",
-            "repo": "GotenbergSharpApiClient",
-            "stars": 214,
-            "topics": [
-              "api-client",
-              "async",
-              "csharp",
-              "fluent",
-              "gotenberg",
-              "html-to-pdf",
-              "httpclientfactory",
-              "netstandard",
-              "nuget",
-              "nuget-package",
-              "pdf",
-              "pdf-converter",
-              "pdf-generation",
-              "pdf-merge",
-              "polly-resilience",
-              "typed-clients",
-              "url-to-pdf",
-              "word-to-pdf"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript - cherfia/chromiumly",
-          "description": "Gotenberg 8.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A lightweight Typescript library that interacts with Gotenberg's different modules to convert a variety of document formats to PDF files.",
-            "homepage": "https://docs.chromiumly.dev",
-            "id": 472728976,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-11-21T21:20:44Z",
-            "open_issues": 2,
-            "owner": "cherfia",
-            "repo": "chromiumly",
-            "stars": 172,
-            "topics": [
-              "chromium",
-              "docx",
-              "gotenberg",
-              "html",
-              "libreoffice",
-              "markdown",
-              "pdf",
-              "pptx",
-              "screenshots",
-              "templates",
-              "xlsx"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "JavaScript/TypeScript - yumauri/gotenberg-js-client",
-          "description": "Gotenberg 6.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple JS/TS client for interacting with a Gotenberg API",
-            "homepage": null,
-            "id": 215290669,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2023-12-19T16:33:43Z",
-            "open_issues": 12,
-            "owner": "yumauri",
-            "repo": "gotenberg-js-client",
-            "stars": 116,
-            "topics": [
-              "gotenberg",
-              "pdf",
-              "pdf-converter"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "PHP - thecodingmachine/gotenberg-php-client",
-          "description": "Gotenberg 6.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "PHP client for the Gotenberg API",
-            "homepage": null,
-            "id": 129900335,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2023-05-29T07:45:51Z",
-            "open_issues": 8,
-            "owner": "thecodingmachine",
-            "repo": "gotenberg-php-client",
-            "stars": 101,
-            "topics": [
-              "api",
-              "excel",
-              "gotenberg",
-              "html",
-              "markdown",
-              "pdf",
-              "pdf-converter",
-              "php",
-              "powerpoint",
-              "word"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Python - stumpylog/gotenberg-client",
-          "description": "Gotenberg 8.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Python client for interfacing with the Gotenberg API for PDF operations",
-            "homepage": "https://stumpylog.github.io/gotenberg-client/",
-            "id": 703202359,
-            "language": "Python",
-            "license": "MPL-2.0",
-            "last_commit": "2026-11-08T21:52:13Z",
-            "open_issues": 0,
-            "owner": "stumpylog",
-            "repo": "gotenberg-client",
-            "stars": 61,
-            "topics": [
-              "api",
-              "gotenberg",
-              "hacktoberfest",
-              "pdf",
-              "python3"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Go - thecodingmachine/gotenberg-go-client",
-          "description": "Gotenberg 6.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Go client for the Gotenberg API",
-            "homepage": null,
-            "id": 175825270,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2024-04-13T23:30:43Z",
-            "open_issues": 11,
-            "owner": "thecodingmachine",
-            "repo": "gotenberg-go-client",
-            "stars": 57,
-            "topics": [
-              "api",
-              "excel",
-              "go",
-              "gotenberg",
-              "html",
-              "markdown",
-              "pdf",
-              "pdf-converter",
-              "powerpoint",
-              "word"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ruby - sanzstez/gotenberg-ruby",
-          "description": "Gotenberg 8.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A gem that provides a client interface for the Gotenberg PDF generate service",
-            "homepage": null,
-            "id": 535571664,
-            "language": "Ruby",
-            "license": "MIT",
-            "last_commit": "2026-07-12T11:27:27Z",
-            "open_issues": 3,
-            "owner": "sanzstez",
-            "repo": "gotenberg-ruby",
-            "stars": 54,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Go - starwalkn/gotenberg-go-client",
-          "description": "Gotenberg 8.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🦫 A Go client for interacting with Gotenberg.",
-            "homepage": null,
-            "id": 776458727,
-            "language": "Rich Text Format",
-            "license": "MIT",
-            "last_commit": "2025-11-18T15:35:11Z",
-            "open_issues": 0,
-            "owner": "voidrunner3074",
-            "repo": "gotenberg-go-client",
-            "stars": 49,
-            "topics": [
-              "chromium",
-              "conversion",
-              "golang",
-              "gotenberg",
-              "html",
-              "libreoffice",
-              "markdown",
-              "pdf"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Java - cherfia/jotenberg",
-          "description": "Gotenberg 8.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Java library that interacts with Gotenberg's different modules to convert a variety of document formats to PDF files.",
-            "homepage": null,
-            "id": 552349700,
-            "language": "Java",
-            "license": "MIT",
-            "last_commit": "2026-11-09T19:25:53Z",
-            "open_issues": 0,
-            "owner": "cherfia",
-            "repo": "jotenberg",
-            "stars": 38,
-            "topics": [
-              "chromium",
-              "dotx",
-              "gotenberg",
-              "html",
-              "libreoffice",
-              "markdown",
-              "pdf",
-              "pptx",
-              "screenshots",
-              "xslx"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Swift - thoven87/gotenberg-kit",
-          "description": "Gotenberg 8.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Gotenberg Swift Client which implements all the routes and features.",
-            "homepage": null,
-            "id": 971089038,
-            "language": "Swift",
-            "license": "Apache-2.0",
-            "last_commit": "2026-06-19T07:42:40Z",
-            "open_issues": 3,
-            "owner": "thoven87",
-            "repo": "gotenberg-kit",
-            "stars": 14,
-            "topics": [
-              "api-client",
-              "api-client-swift",
-              "chromium",
-              "convert-to-pdf",
-              "docx-to-pdf",
-              "dotx",
-              "gotenberg",
-              "html",
-              "html-to-pdf",
-              "libreoffice",
-              "markdown",
-              "pdf",
-              "pdf-converter",
-              "pptx",
-              "screenshots",
-              "server-side-swift",
-              "serverside-swift",
-              "swift",
-              "wkhtmltopdf",
-              "xslx"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Kotlin - marrek13/kotenberg",
-          "description": "Gotenberg 8.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 725321953,
-            "language": "Kotlin",
-            "license": "MIT",
-            "last_commit": "2026-11-22T02:04:01Z",
-            "open_issues": 4,
-            "owner": "marrek13",
-            "repo": "kotenberg",
-            "stars": 13,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Go - nativebpm/gotenberg (Stream-first: Built on httpclient for efficient multipart uploads)",
-          "description": "Gotenberg 8.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Go client for Gotenberg — document conversion service supporting Chromium, LibreOffice, and PDF manipulation engines.",
-            "homepage": "https://gotenberg.dev",
-            "id": 1063389290,
-            "language": "Go",
-            "license": null,
-            "last_commit": "2026-06-23T03:34:10Z",
-            "open_issues": 1,
-            "owner": "nativebpm",
-            "repo": "gotenberg",
-            "stars": 11,
-            "topics": [
-              "chromium",
-              "gotenberg",
-              "libreoffice",
-              "pdf-converter",
-              "pdf-engine",
-              "pdf-generation",
-              "pdfeditor"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Java/Spring - ooraini/gotenberg-spring",
-          "description": "Gotenberg 8.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A lightweight Java client for Gotenberg using Spring HTTP interfaces",
-            "homepage": null,
-            "id": 1139000670,
-            "language": "Java",
-            "license": "Apache-2.0",
-            "last_commit": "2026-01-28T11:33:42Z",
-            "open_issues": 3,
-            "owner": "ooraini",
-            "repo": "gotenberg-spring",
-            "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ruby - jbd0101/ruby-gotenberg-client",
-          "description": "jbd0101/ruby-gotenberg-client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 528994501,
-            "language": "Ruby",
-            "license": "MIT",
-            "last_commit": "2023-01-08T20:22:08Z",
-            "open_issues": 0,
-            "owner": "jbd0101",
-            "repo": "ruby-gotenberg-client",
-            "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Word Document Template to PDF - EC-Nordbund/docx-templates-to-pdf",
-          "description": "Gotenberg 6.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": null,
-            "homepage": null,
-            "id": 318849669,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2021-05-26T15:26:58Z",
-            "open_issues": 1,
-            "owner": "EC-Nordbund",
-            "repo": "docx-templates-to-pdf",
-            "stars": 7,
-            "topics": [
-              "docx",
-              "docx-templates",
-              "docx2pdf",
-              "gotenberg",
-              "pdf"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "PHP/Laravel - igeek/pdfservice",
-          "description": "Gotenberg 8.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Laravel package for generating PDFs using Gotenberg. Convert Blade views or raw HTML to PDF with support for headers, footers, custom page sizes, and more.",
-            "homepage": null,
-            "id": 1129615135,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2026-04-22T17:16:19Z",
-            "open_issues": 2,
-            "owner": "coolamit",
-            "repo": "igeek-pdfservice",
-            "stars": 5,
-            "topics": [
-              "gotenberg",
-              "laravel",
-              "pdf",
-              "pdf-generation",
-              "php"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Deno - EC-Nordbund/gotenberg",
-          "description": "EC-Nordbund/gotenberg",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A gotenberg client for Deno",
-            "homepage": "https://doc.deno.land/https://deno.land/x/gotenberg/mod.ts",
-            "id": 452744058,
-            "language": "TypeScript",
-            "license": "GPL-3.0",
-            "last_commit": "2023-12-15T02:22:20Z",
-            "open_issues": 0,
-            "owner": "EC-Nordbund",
-            "repo": "gotenberg",
-            "stars": 4,
-            "topics": [
-              "deno",
-              "docx2pdf",
-              "gotenberg",
-              "office2pdf",
-              "topdf",
-              "xlsx2pdf"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
-        },
-        {
-          "node_type": "item",
-          "title": "PHP - spacetab-io/gotenbserg-sdk-php",
-          "description": "Gotenberg 6.x ⚠️",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple PHP async client for interacting with a Gotenberg API. Based on amphp.",
-            "homepage": null,
-            "id": 274667742,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2020-06-24T13:38:20Z",
-            "open_issues": 0,
-            "owner": "spacetab-io",
-            "repo": "gotenberg-sdk-php",
-            "stars": 1,
-            "topics": [
-              "gotenberg",
-              "php",
-              "sdk",
-              "sdk-php"
-            ]
-          },
-          "first_seen": "2026-08-28T15:38:41.380Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript/TypeScript - yumauri/gotenberg-js-client",
+              "description": "Gotenberg 6.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A simple JS/TS client for interacting with a Gotenberg API",
+                "homepage": null,
+                "id": 215290669,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2023-12-19T16:33:43Z",
+                "open_issues": 12,
+                "owner": "yumauri",
+                "repo": "gotenberg-js-client",
+                "stars": 116,
+                "topics": [
+                  "gotenberg",
+                  "pdf",
+                  "pdf-converter"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PHP - thecodingmachine/gotenberg-php-client",
+              "description": "Gotenberg 6.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "PHP client for the Gotenberg API",
+                "homepage": null,
+                "id": 129900335,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2023-05-29T07:45:51Z",
+                "open_issues": 8,
+                "owner": "thecodingmachine",
+                "repo": "gotenberg-php-client",
+                "stars": 101,
+                "topics": [
+                  "api",
+                  "excel",
+                  "gotenberg",
+                  "html",
+                  "markdown",
+                  "pdf",
+                  "pdf-converter",
+                  "php",
+                  "powerpoint",
+                  "word"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Go - thecodingmachine/gotenberg-go-client",
+              "description": "Gotenberg 6.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Go client for the Gotenberg API",
+                "homepage": null,
+                "id": 175825270,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2024-04-13T23:30:43Z",
+                "open_issues": 11,
+                "owner": "thecodingmachine",
+                "repo": "gotenberg-go-client",
+                "stars": 57,
+                "topics": [
+                  "api",
+                  "excel",
+                  "go",
+                  "gotenberg",
+                  "html",
+                  "markdown",
+                  "pdf",
+                  "pdf-converter",
+                  "powerpoint",
+                  "word"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Word Document Template to PDF - EC-Nordbund/docx-templates-to-pdf",
+              "description": "Gotenberg 6.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": null,
+                "homepage": null,
+                "id": 318849669,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2021-05-26T15:26:58Z",
+                "open_issues": 1,
+                "owner": "EC-Nordbund",
+                "repo": "docx-templates-to-pdf",
+                "stars": 7,
+                "topics": [
+                  "docx",
+                  "docx-templates",
+                  "docx2pdf",
+                  "gotenberg",
+                  "pdf"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PHP - spacetab-io/gotenbserg-sdk-php",
+              "description": "Gotenberg 6.x ⚠️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A simple PHP async client for interacting with a Gotenberg API. Based on amphp.",
+                "homepage": null,
+                "id": 274667742,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2020-06-24T13:38:20Z",
+                "open_issues": 0,
+                "owner": "spacetab-io",
+                "repo": "gotenberg-sdk-php",
+                "stars": 1,
+                "topics": [
+                  "gotenberg",
+                  "php",
+                  "sdk",
+                  "sdk-php"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:41.380Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Older Gotenberg versions"
         }
       ],
       "title": "Clients"
@@ -609,11 +630,11 @@
             "id": 458648791,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T12:18:53Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-25T12:18:55Z",
+            "open_issues": 9,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 48563,
+            "stars": 48608,
             "topics": [
               "ai",
               "angular",
@@ -643,11 +664,11 @@
             "id": 464415161,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-24T10:19:58Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-25T08:45:26Z",
+            "open_issues": 17,
             "owner": "getlago",
             "repo": "lago",
-            "stars": 10917,
+            "stars": 10918,
             "topics": [
               "analytics",
               "billing",
@@ -683,8 +704,8 @@
             "id": 2686502,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T14:12:00Z",
-            "open_issues": 144,
+            "last_commit": "2026-11-25T13:10:48Z",
+            "open_issues": 139,
             "owner": "pimcore",
             "repo": "pimcore",
             "stars": 3891,
@@ -787,8 +808,8 @@
             "id": 1412635296,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-20T04:15:37Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-25T05:27:59Z",
+            "open_issues": 1,
             "owner": "nktnet1",
             "repo": "gotenui",
             "stars": 2,
@@ -807,7 +828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T14:13:43.738Z",
+    "last_updated": "2026-11-25T13:27:23.096Z",
     "original_repository_info": {
       "archived": false,
       "description": ":rainbow: A curated list of awesome things related to Gotenberg.",
@@ -815,7 +836,7 @@
       "id": 398847871,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-05T21:59:12Z",
+      "last_commit": "2026-11-24T15:29:37Z",
       "open_issues": 0,
       "owner": "gotenberg",
       "repo": "awesome-gotenberg",
@@ -828,7 +849,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "6da9edbddf085a735f4e729b8ef7cd1e04c10090",
+    "original_repository_sha": "d9aad02d4dc846be35bdbbb313ea58cad6430142",
     "enhanced_repository": "enhansome/enhansome-gotenberg",
     "enhanced_repository_description": null,
     "title": "Awesome gotenberg with stars"
