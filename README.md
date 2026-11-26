@@ -27,7 +27,7 @@
 ### Supports version 9
 
 * [PHP - gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php) ⭐ 406 | 🐛 0 | 🌐 PHP | 📅 2026-11-24
-* [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient) ⭐ 214 | 🐛 3 | 🌐 C# | 📅 2026-11-24
+* [C# - ChangemakerStudios/GotenbergSharpApiClient](https://github.com/ChangemakerStudios/GotenbergSharpApiClient) ⭐ 214 | 🐛 1 | 🌐 C# | 📅 2026-11-26
 * [TypeScript - cherfia/chromiumly](https://github.com/cherfia/chromiumly) ⭐ 172 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-21
 * [Java - cherfia/jotenberg](https://github.com/cherfia/jotenberg) ⭐ 38 | 🐛 0 | 🌐 Java | 📅 2026-11-09
 
@@ -61,9 +61,9 @@
 
 ## Applications
 
-* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 48,608 | 🐛 9 | 🌐 Python | 📅 2026-11-25 - a document management system that transforms your physical documents into a searchable online archive.
-* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,918 | 🐛 17 | 🌐 Go | 📅 2026-11-25 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
-* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,891 | 🐛 139 | 🌐 PHP | 📅 2026-11-25 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
+* [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 48,651 | 🐛 6 | 🌐 Python | 📅 2026-11-26 - a document management system that transforms your physical documents into a searchable online archive.
+* [getlago/lago](https://github.com/getlago/lago) ⭐ 10,924 | 🐛 17 | 🌐 Go | 📅 2026-11-26 - an open Source Billing API for Product Led SaaS. They use Gotenberg for PDF rendering.
+* [Pimcore](https://github.com/pimcore/pimcore) ⭐ 3,891 | 🐛 138 | 🌐 PHP | 📅 2026-11-26 - an open-source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce.
 * [ShipSaaS/DocKing](https://github.com/shipsaas/docking) ⭐ 265 | 🐛 4 | 🌐 PHP | 📅 2024-05-23 - an open-source microservice to manage document templates & render PDFs for your apps.
 * [papihack/document-templating-service](https://github.com/PapiHack/document-templating-service) ⭐ 66 | 🐛 0 | 🌐 Python | 📅 2023-03-21 - a lightweight microservice for processing your documents, powered by a templating engine for injecting variables defined in it and use Gotenberg for PDF rendering.
 * [Gotenui](https://github.com/nktnet1/gotenui) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-25 - Web interface for PDF conversion and processing powered by Gotenberg.
@@ -88,4 +88,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
